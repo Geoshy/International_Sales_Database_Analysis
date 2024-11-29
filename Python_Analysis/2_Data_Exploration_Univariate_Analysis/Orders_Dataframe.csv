@@ -1,828 +1,828 @@
-,customerid,firstname,lastname,city,country,orderid,ordernumber,orderdate,totalamount
-0,1,Maria,Anders,Berlin,Germany,396,542773,2013-08-25,1086.0
-3,1,Maria,Anders,Berlin,Germany,445,542822,2013-10-03,878.0
-4,1,Maria,Anders,Berlin,Germany,455,542832,2013-10-13,330.0
-6,1,Maria,Anders,Berlin,Germany,764,543141,2014-04-09,960.0
-8,1,Maria,Anders,Berlin,Germany,588,542965,2014-01-15,851.0
-10,1,Maria,Anders,Berlin,Germany,705,543082,2014-03-16,491.2
-12,2,Ana,Trujillo,México D.F.,Mexico,61,542438,2012-09-18,88.8
-14,2,Ana,Trujillo,México D.F.,Mexico,378,542755,2013-08-08,479.75
-17,2,Ana,Trujillo,México D.F.,Mexico,512,542889,2013-11-28,320.0
-18,2,Ana,Trujillo,México D.F.,Mexico,679,543056,2014-03-04,514.4
-22,3,Antonio,Moreno,México D.F.,Mexico,118,542495,2012-11-27,403.2
-23,3,Antonio,Moreno,México D.F.,Mexico,260,542637,2013-04-15,881.25
-25,3,Antonio,Moreno,México D.F.,Mexico,288,542665,2013-05-13,2156.5
-29,3,Antonio,Moreno,México D.F.,Mexico,326,542703,2013-06-19,2082.0
-32,3,Antonio,Moreno,México D.F.,Mexico,430,542807,2013-09-22,956.9
-34,3,Antonio,Moreno,México D.F.,Mexico,435,542812,2013-09-25,375.5
-37,3,Antonio,Moreno,México D.F.,Mexico,609,542986,2014-01-28,660.0
-39,4,Thomas,Hardy,London,UK,108,542485,2012-11-15,480.0
-41,4,Thomas,Hardy,London,UK,136,542513,2012-12-16,899.0
-44,4,Thomas,Hardy,London,UK,206,542583,2013-02-21,453.0
-46,4,Thomas,Hardy,London,UK,311,542688,2013-06-04,2142.9
-51,4,Thomas,Hardy,London,UK,460,542837,2013-10-16,1704.0
-54,4,Thomas,Hardy,London,UK,494,542871,2013-11-14,285.0
-55,4,Thomas,Hardy,London,UK,769,543146,2014-04-10,491.5
-57,4,Thomas,Hardy,London,UK,496,542873,2013-11-17,336.0
-58,4,Thomas,Hardy,London,UK,521,542898,2013-12-08,1477.0
-62,4,Thomas,Hardy,London,UK,546,542923,2013-12-24,191.1
-64,4,Thomas,Hardy,London,UK,617,542994,2014-02-02,282.0
-66,4,Thomas,Hardy,London,UK,673,543050,2014-03-03,390.0
-67,4,Thomas,Hardy,London,UK,706,543083,2014-03-16,4675.0
-69,5,Christina,Berglund,Lule?,Sweden,31,542408,2012-08-12,1488.8
-73,5,Christina,Berglund,Lule?,Sweden,33,542410,2012-08-14,613.2
-76,5,Christina,Berglund,Lule?,Sweden,137,542514,2012-12-16,2222.4
-78,5,Christina,Berglund,Lule?,Sweden,197,542574,2013-02-12,1031.7
-82,5,Christina,Berglund,Lule?,Sweden,198,542575,2013-02-13,174.9
-84,5,Christina,Berglund,Lule?,Sweden,277,542654,2013-05-01,3192.65
-88,5,Christina,Berglund,Lule?,Sweden,531,542908,2013-12-16,96.5
-89,5,Christina,Berglund,Lule?,Sweden,590,542967,2014-01-16,1254.0
-93,5,Christina,Berglund,Lule?,Sweden,610,542987,2014-01-28,2630.95
-96,5,Christina,Berglund,Lule?,Sweden,619,542996,2014-02-03,1461.6
-99,5,Christina,Berglund,Lule?,Sweden,628,543005,2014-02-06,729.5
-102,5,Christina,Berglund,Lule?,Sweden,677,543054,2014-03-04,2034.5
-105,5,Christina,Berglund,Lule?,Sweden,325,542702,2013-06-18,1565.65
-109,5,Christina,Berglund,Lule?,Sweden,379,542756,2013-08-11,1503.6
-112,5,Christina,Berglund,Lule?,Sweden,407,542784,2013-09-02,668.7
-115,5,Christina,Berglund,Lule?,Sweden,425,542802,2013-09-17,4210.5
-117,5,Christina,Berglund,Lule?,Sweden,442,542819,2013-10-01,630.0
-118,5,Christina,Berglund,Lule?,Sweden,486,542863,2013-11-07,1459.0
-121,6,Hanna,Moos,Mannheim,Germany,254,542631,2013-04-09,149.0
-122,6,Hanna,Moos,Mannheim,Germany,262,542639,2013-04-17,136.8
-123,6,Hanna,Moos,Mannheim,Germany,335,542712,2013-06-27,330.0
-125,6,Hanna,Moos,Mannheim,Germany,367,542744,2013-07-29,464.0
-128,6,Hanna,Moos,Mannheim,Germany,606,542983,2014-01-27,625.0
-129,6,Hanna,Moos,Mannheim,Germany,709,543086,2014-03-17,677.0
-132,6,Hanna,Moos,Mannheim,Germany,811,543188,2014-04-29,858.0
-135,7,Frédérique,Citeaux,Strasbourg,France,18,542395,2012-07-25,1176.0
-137,7,Frédérique,Citeaux,Strasbourg,France,50,542427,2012-09-04,1420.0
-139,7,Frédérique,Citeaux,Strasbourg,France,113,542490,2012-11-22,7390.2
-144,7,Frédérique,Citeaux,Strasbourg,France,381,542758,2013-08-12,450.0
-145,7,Frédérique,Citeaux,Strasbourg,France,432,542809,2013-09-23,660.0
-146,7,Frédérique,Citeaux,Strasbourg,France,579,542956,2014-01-12,730.0
-148,7,Frédérique,Citeaux,Strasbourg,France,312,542689,2013-06-05,547.8
-150,7,Frédérique,Citeaux,Strasbourg,France,319,542696,2013-06-12,2040.0
-153,7,Frédérique,Citeaux,Strasbourg,France,337,542714,2013-06-30,625.0
-154,7,Frédérique,Citeaux,Strasbourg,France,189,542566,2013-02-05,2210.8
-158,7,Frédérique,Citeaux,Strasbourg,France,202,542579,2013-02-18,1838.2
-161,8,Mart?n,Sommer,Madrid,Spain,79,542456,2012-10-10,982.0
-164,8,Mart?n,Sommer,Madrid,Spain,554,542931,2013-12-29,4035.8
-166,8,Mart?n,Sommer,Madrid,Spain,723,543100,2014-03-24,280.0
-167,9,Laurence,Lebihan,Marseille,France,84,542461,2012-10-16,88.5
-168,9,Laurence,Lebihan,Marseille,France,93,542470,2012-10-29,2564.4
-171,9,Laurence,Lebihan,Marseille,France,115,542492,2012-11-25,1549.6
-174,9,Laurence,Lebihan,Marseille,France,223,542600,2013-03-11,1820.8
-177,9,Laurence,Lebihan,Marseille,France,693,543070,2014-03-11,360.0
-179,9,Laurence,Lebihan,Marseille,France,829,543206,2014-05-06,1057.0
-182,9,Laurence,Lebihan,Marseille,France,485,542862,2013-11-06,360.0
-183,9,Laurence,Lebihan,Marseille,France,508,542885,2013-11-26,2598.0
-187,9,Laurence,Lebihan,Marseille,France,580,542957,2014-01-12,843.0
-189,9,Laurence,Lebihan,Marseille,France,624,543001,2014-02-05,2083.4
-192,9,Laurence,Lebihan,Marseille,France,629,543006,2014-02-09,917.0
-194,9,Laurence,Lebihan,Marseille,France,685,543062,2014-03-06,1925.5
-198,9,Laurence,Lebihan,Marseille,France,264,542641,2013-04-18,3000.0
-201,9,Laurence,Lebihan,Marseille,France,278,542655,2013-05-02,846.0
-203,9,Laurence,Lebihan,Marseille,France,416,542793,2013-09-10,2032.0
-206,9,Laurence,Lebihan,Marseille,France,468,542845,2013-10-23,1296.0
-208,9,Laurence,Lebihan,Marseille,France,483,542860,2013-11-05,509.75
-211,10,Elizabeth,Lincoln,Tsawassen,Canada,142,542519,2012-12-20,1832.8
-215,10,Elizabeth,Lincoln,Tsawassen,Canada,163,542540,2013-01-10,802.0
-217,10,Elizabeth,Lincoln,Tsawassen,Canada,164,542541,2013-01-10,1208.5
-220,10,Elizabeth,Lincoln,Tsawassen,Canada,184,542561,2013-01-30,2523.0
-223,10,Elizabeth,Lincoln,Tsawassen,Canada,245,542622,2013-04-01,896.0
-225,10,Elizabeth,Lincoln,Tsawassen,Canada,495,542872,2013-11-14,3118.0
-228,10,Elizabeth,Lincoln,Tsawassen,Canada,798,543175,2014-04-23,1309.5
-230,10,Elizabeth,Lincoln,Tsawassen,Canada,801,543178,2014-04-24,525.0
-231,10,Elizabeth,Lincoln,Tsawassen,Canada,671,543048,2014-03-02,1930.0
-233,10,Elizabeth,Lincoln,Tsawassen,Canada,697,543074,2014-03-12,1139.1
-236,10,Elizabeth,Lincoln,Tsawassen,Canada,702,543079,2014-03-13,4422.0
-240,10,Elizabeth,Lincoln,Tsawassen,Canada,728,543105,2014-03-25,717.5
-242,10,Elizabeth,Lincoln,Tsawassen,Canada,735,543112,2014-03-27,1014.0
-244,10,Elizabeth,Lincoln,Tsawassen,Canada,780,543157,2014-04-16,1170.3
-246,11,Victoria,Ashworth,London,UK,42,542419,2012-08-26,479.4
-248,11,Victoria,Ashworth,London,UK,224,542601,2013-03-11,1328.0
-250,11,Victoria,Ashworth,London,UK,237,542614,2013-03-24,386.2
-253,11,Victoria,Ashworth,London,UK,291,542668,2013-05-15,139.8
-255,11,Victoria,Ashworth,London,UK,292,542669,2013-05-16,355.5
-259,11,Victoria,Ashworth,London,UK,331,542708,2013-06-24,477.0
-261,11,Victoria,Ashworth,London,UK,352,542729,2013-07-15,493.0
-262,11,Victoria,Ashworth,London,UK,696,543073,2014-03-11,711.0
-265,11,Victoria,Ashworth,London,UK,700,543077,2014-03-13,220.0
-266,11,Victoria,Ashworth,London,UK,776,543153,2014-04-14,1500.0
-268,12,Patricio,Simpson,Buenos Aires,Argentina,274,542651,2013-04-29,225.5
-271,12,Patricio,Simpson,Buenos Aires,Argentina,535,542912,2013-12-17,12.5
-272,12,Patricio,Simpson,Buenos Aires,Argentina,572,542949,2014-01-07,477.0
-274,12,Patricio,Simpson,Buenos Aires,Argentina,634,543011,2014-02-11,150.0
-275,12,Patricio,Simpson,Buenos Aires,Argentina,690,543067,2014-03-10,644.8
-277,12,Patricio,Simpson,Buenos Aires,Argentina,807,543184,2014-04-28,305.0
-279,13,Francisco,Chang,México D.F.,Mexico,12,542389,2012-07-18,100.8
-281,14,Yang,Wang,Bern,Switzerland,7,542384,2012-07-11,625.2
-284,14,Yang,Wang,Bern,Switzerland,123,542500,2012-12-03,1174.0
-287,14,Yang,Wang,Bern,Switzerland,272,542649,2013-04-28,2356.0
-290,14,Yang,Wang,Bern,Switzerland,484,542861,2013-11-06,1990.0
-292,14,Yang,Wang,Bern,Switzerland,499,542876,2013-11-19,2311.7
-296,14,Yang,Wang,Bern,Switzerland,719,543096,2014-03-20,1255.6
-299,14,Yang,Wang,Bern,Switzerland,782,543159,2014-04-16,1286.8
-301,14,Yang,Wang,Bern,Switzerland,794,543171,2014-04-22,1887.0
-303,15,Pedro,Afonso,Sao Paulo,Brazil,43,542420,2012-08-27,2169.0
-307,15,Pedro,Afonso,Sao Paulo,Brazil,219,542596,2013-03-06,216.0
-309,15,Pedro,Afonso,Sao Paulo,Brazil,722,543099,2014-03-23,108.0
-310,15,Pedro,Afonso,Sao Paulo,Brazil,795,543172,2014-04-22,405.75
-312,15,Pedro,Afonso,Sao Paulo,Brazil,247,542624,2013-04-02,912.0
-313,16,Elizabeth,Brown,London,UK,188,542565,2013-02-04,631.6
-316,16,Elizabeth,Brown,London,UK,215,542592,2013-03-03,156.0
-318,16,Elizabeth,Brown,London,UK,601,542978,2014-01-23,931.5
-320,17,Sven,Ottlieb,Aachen,Germany,116,542493,2012-11-26,447.2
-323,17,Sven,Ottlieb,Aachen,Germany,144,542521,2012-12-23,86.4
-324,17,Sven,Ottlieb,Aachen,Germany,550,542927,2013-12-25,420.0
-325,17,Sven,Ottlieb,Aachen,Germany,578,542955,2014-01-09,1030.76
-327,17,Sven,Ottlieb,Aachen,Germany,789,543166,2014-04-20,1692.0
-329,17,Sven,Ottlieb,Aachen,Germany,820,543197,2014-05-04,86.85
-330,18,Janine,Labrune,Nantes,France,64,542441,2012-09-20,268.8
-332,18,Janine,Labrune,Nantes,France,362,542739,2013-07-24,424.0
-335,18,Janine,Labrune,Nantes,France,436,542813,2013-09-26,63.0
-336,18,Janine,Labrune,Nantes,France,643,543020,2014-02-16,860.1
-339,19,Ann,Devon,London,UK,117,542494,2012-11-26,950.0
-341,19,Ann,Devon,London,UK,153,542530,2013-01-01,3063.0
-344,19,Ann,Devon,London,UK,285,542662,2013-05-09,796.35
-346,19,Ann,Devon,London,UK,479,542856,2013-11-03,655.0
-348,19,Ann,Devon,London,UK,740,543117,2014-03-31,2772.0
-351,19,Ann,Devon,London,UK,777,543154,2014-04-15,1966.81
-355,19,Ann,Devon,London,UK,800,543177,2014-04-24,1090.5
-357,19,Ann,Devon,London,UK,809,543186,2014-04-28,3740.0
-360,20,Roland,Mendel,Graz,Austria,11,542388,2012-07-17,2018.6
-363,20,Roland,Mendel,Graz,Austria,16,542393,2012-07-23,2464.8
-367,20,Roland,Mendel,Graz,Austria,104,542481,2012-11-11,5677.6
-371,20,Roland,Mendel,Graz,Austria,121,542498,2012-11-29,1834.2
-375,20,Roland,Mendel,Graz,Austria,135,542512,2012-12-13,2900.0
-380,20,Roland,Mendel,Graz,Austria,143,542520,2012-12-23,2275.2
-384,20,Roland,Mendel,Graz,Austria,721,543098,2014-03-23,1408.0
-387,20,Roland,Mendel,Graz,Austria,732,543109,2014-03-26,4813.5
-393,20,Roland,Mendel,Graz,Austria,743,543120,2014-04-01,4931.0
-397,20,Roland,Mendel,Graz,Austria,761,543138,2014-04-08,4903.5
-400,20,Roland,Mendel,Graz,Austria,770,543147,2014-04-13,6750.0
-403,20,Roland,Mendel,Graz,Austria,825,543202,2014-05-05,5218.0
-407,20,Roland,Mendel,Graz,Austria,526,542903,2013-12-11,2216.25
-410,20,Roland,Mendel,Graz,Austria,529,542906,2013-12-15,6984.5
-414,20,Roland,Mendel,Graz,Austria,548,542925,2013-12-24,2499.25
-416,20,Roland,Mendel,Graz,Austria,589,542966,2014-01-16,4705.5
-421,20,Roland,Mendel,Graz,Austria,607,542984,2014-01-27,3490.0
-423,20,Roland,Mendel,Graz,Austria,648,543025,2014-02-18,6379.4
-427,20,Roland,Mendel,Graz,Austria,348,542725,2013-07-10,6300.0
-430,20,Roland,Mendel,Graz,Austria,386,542763,2013-08-15,6483.05
-434,20,Roland,Mendel,Graz,Austria,420,542797,2013-09-12,1921.0
-436,20,Roland,Mendel,Graz,Austria,451,542828,2013-10-09,3600.73
-441,20,Roland,Mendel,Graz,Austria,517,542894,2013-12-03,2540.0
-443,20,Roland,Mendel,Graz,Austria,524,542901,2013-12-10,344.0
-444,20,Roland,Mendel,Graz,Austria,155,542532,2013-01-02,2713.5
-446,20,Roland,Mendel,Graz,Austria,156,542533,2013-01-03,1005.9
-448,20,Roland,Mendel,Graz,Austria,183,542560,2013-01-30,5796.0
-452,20,Roland,Mendel,Graz,Austria,195,542572,2013-02-11,1792.0
-455,20,Roland,Mendel,Graz,Austria,267,542644,2013-04-22,8623.45
-460,20,Roland,Mendel,Graz,Austria,324,542701,2013-06-17,647.75
-462,21,Aria,Cruz,Sao Paulo,Brazil,100,542477,2012-11-06,928.0
-466,21,Aria,Cruz,Sao Paulo,Brazil,139,542516,2012-12-18,166.0
-468,21,Aria,Cruz,Sao Paulo,Brazil,167,542544,2013-01-14,231.4
-470,21,Aria,Cruz,Sao Paulo,Brazil,265,542642,2013-04-21,618.0
-474,21,Aria,Cruz,Sao Paulo,Brazil,334,542711,2013-06-26,387.5
-475,21,Aria,Cruz,Sao Paulo,Brazil,403,542780,2013-08-29,1820.2
-478,21,Aria,Cruz,Sao Paulo,Brazil,478,542855,2013-10-31,287.8
-482,23,Martine,Rancé,Lille,France,161,542538,2013-01-08,1622.4
-485,23,Martine,Rancé,Lille,France,233,542610,2013-03-20,756.0
-487,23,Martine,Rancé,Lille,France,387,542764,2013-08-15,4985.5
-491,23,Martine,Rancé,Lille,France,516,542893,2013-12-03,616.0
-494,23,Martine,Rancé,Lille,France,542,542919,2013-12-22,3687.0
-498,24,Maria,Larsson,Br?cke,Sweden,17,542394,2012-07-24,724.5
-500,24,Maria,Larsson,Br?cke,Sweden,80,542457,2012-10-11,2262.5
-504,24,Maria,Larsson,Br?cke,Sweden,131,542508,2012-12-10,103.2
-505,24,Maria,Larsson,Br?cke,Sweden,187,542564,2013-02-03,360.0
-507,24,Maria,Larsson,Br?cke,Sweden,213,542590,2013-02-28,234.8
-509,24,Maria,Larsson,Br?cke,Sweden,286,542663,2013-05-12,2295.2
-512,24,Maria,Larsson,Br?cke,Sweden,803,543180,2014-04-27,900.0
-513,24,Maria,Larsson,Br?cke,Sweden,655,543032,2014-02-23,1015.8
-515,24,Maria,Larsson,Br?cke,Sweden,708,543085,2014-03-17,93.0
-516,24,Maria,Larsson,Br?cke,Sweden,730,543107,2014-03-26,2233.0
-520,24,Maria,Larsson,Br?cke,Sweden,733,543110,2014-03-27,310.0
-521,24,Maria,Larsson,Br?cke,Sweden,746,543123,2014-04-01,6527.25
-523,24,Maria,Larsson,Br?cke,Sweden,754,543131,2014-04-06,2769.0
-527,24,Maria,Larsson,Br?cke,Sweden,314,542691,2013-06-06,2844.5
-529,24,Maria,Larsson,Br?cke,Sweden,456,542833,2013-10-14,2545.0
-532,24,Maria,Larsson,Br?cke,Sweden,515,542892,2013-12-02,4337.0
-536,24,Maria,Larsson,Br?cke,Sweden,527,542904,2013-12-11,875.0
-538,24,Maria,Larsson,Br?cke,Sweden,577,542954,2014-01-09,250.8
-540,24,Maria,Larsson,Br?cke,Sweden,633,543010,2014-02-10,1875.0
-543,25,Peter,Franken,München,Germany,20,542397,2012-07-29,4031.0
-546,25,Peter,Franken,München,Germany,90,542467,2012-10-24,2467.0
-551,25,Peter,Franken,München,Germany,95,542472,2012-10-30,2300.8
-555,25,Peter,Franken,München,Germany,149,542526,2012-12-27,1903.8
-558,25,Peter,Franken,München,Germany,241,542618,2013-03-27,1560.0
-560,25,Peter,Franken,München,Germany,313,542690,2013-06-06,1257.3
-562,25,Peter,Franken,München,Germany,612,542989,2014-01-29,1438.25
-565,25,Peter,Franken,München,Germany,682,543059,2014-03-05,1174.75
-568,25,Peter,Franken,München,Germany,765,543142,2014-04-09,2974.0
-571,25,Peter,Franken,München,Germany,376,542753,2013-08-07,1429.75
-576,25,Peter,Franken,München,Germany,406,542783,2013-09-02,1203.5
-578,25,Peter,Franken,München,Germany,423,542800,2013-09-16,2301.75
-583,25,Peter,Franken,München,Germany,428,542805,2013-09-19,1423.0
-586,25,Peter,Franken,München,Germany,470,542847,2013-10-24,1331.75
-589,25,Peter,Franken,München,Germany,544,542921,2013-12-23,1926.06
-591,26,Carine,Schmitt,Nantes,France,424,542801,2013-09-17,920.1
-594,26,Carine,Schmitt,Nantes,France,613,542990,2014-01-29,519.0
-596,26,Carine,Schmitt,Nantes,France,724,543101,2014-03-24,1733.06
-597,27,Paolo,Accorti,Torino,Italy,175,542552,2013-01-22,49.8
-598,27,Paolo,Accorti,Torino,Italy,813,543190,2014-04-30,266.0
-600,27,Paolo,Accorti,Torino,Italy,463,542840,2013-10-20,93.5
-602,27,Paolo,Accorti,Torino,Italy,506,542883,2013-11-25,88.0
-604,27,Paolo,Accorti,Torino,Italy,560,542937,2013-12-31,18.4
-605,27,Paolo,Accorti,Torino,Italy,779,543156,2014-04-15,1030.0
-607,28,Lino,Rodriguez,Lisboa,Portugal,81,542458,2012-10-14,1168.0
-610,28,Lino,Rodriguez,Lisboa,Portugal,105,542482,2012-11-12,154.0
-612,28,Lino,Rodriguez,Lisboa,Portugal,217,542594,2013-03-04,1848.0
-616,28,Lino,Rodriguez,Lisboa,Portugal,244,542621,2013-03-31,305.3
-618,28,Lino,Rodriguez,Lisboa,Portugal,304,542681,2013-05-28,1836.0
-621,28,Lino,Rodriguez,Lisboa,Portugal,357,542734,2013-07-18,256.5
-623,28,Lino,Rodriguez,Lisboa,Portugal,417,542794,2013-09-10,1515.75
-626,28,Lino,Rodriguez,Lisboa,Portugal,716,543093,2014-03-19,68.0
-627,29,Eduardo,Saavedra,Barcelona,Spain,119,542496,2012-11-28,136.0
-629,29,Eduardo,Saavedra,Barcelona,Spain,179,542556,2013-01-27,338.2
-631,29,Eduardo,Saavedra,Barcelona,Spain,321,542698,2013-06-13,155.0
-632,29,Eduardo,Saavedra,Barcelona,Spain,640,543017,2014-02-13,70.0
-633,29,Eduardo,Saavedra,Barcelona,Spain,681,543058,2014-03-05,137.5
-635,30,José,Pedro Freyre,Sevilla,Spain,56,542433,2012-09-11,1242.0
-638,30,José,Pedro Freyre,Sevilla,Spain,303,542680,2013-05-28,749.0
-642,30,José,Pedro Freyre,Sevilla,Spain,382,542759,2013-08-12,2775.05
-644,30,José,Pedro Freyre,Sevilla,Spain,762,543139,2014-04-08,702.0
-647,30,José,Pedro Freyre,Sevilla,Spain,790,543167,2014-04-21,60.0
-648,30,José,Pedro Freyre,Sevilla,Spain,625,543002,2014-02-05,2166.8
-652,30,José,Pedro Freyre,Sevilla,Spain,627,543004,2014-02-06,310.0
-653,30,José,Pedro Freyre,Sevilla,Spain,641,543018,2014-02-16,605.0
-655,30,José,Pedro Freyre,Sevilla,Spain,664,543041,2014-02-26,858.0
-658,30,José,Pedro Freyre,Sevilla,Spain,701,543078,2014-03-13,2362.25
-661,31,André,Fonseca,Campinas,Brazil,176,542553,2013-01-23,1020.0
-663,31,André,Fonseca,Campinas,Brazil,405,542782,2013-09-01,331.78
-665,31,André,Fonseca,Campinas,Brazil,438,542815,2013-09-29,801.1
-668,31,André,Fonseca,Campinas,Brazil,462,542839,2013-10-17,3424.0
-671,31,André,Fonseca,Campinas,Brazil,487,542864,2013-11-07,1498.35
-674,31,André,Fonseca,Campinas,Brazil,530,542907,2013-12-15,280.0
-675,31,André,Fonseca,Campinas,Brazil,543,542920,2013-12-22,850.0
-677,31,André,Fonseca,Campinas,Brazil,712,543089,2014-03-18,155.0
-678,31,André,Fonseca,Campinas,Brazil,802,543179,2014-04-24,342.0
-680,32,Howard,Snyder,Eugene,USA,281,542658,2013-05-06,396.2
-683,32,Howard,Snyder,Eugene,USA,342,542719,2013-07-04,72.0
-684,32,Howard,Snyder,Eugene,USA,369,542746,2013-07-31,5032.0
-688,32,Howard,Snyder,Eugene,USA,370,542747,2013-07-31,1650.0
-689,32,Howard,Snyder,Eugene,USA,409,542786,2013-09-04,671.35
-692,32,Howard,Snyder,Eugene,USA,434,542811,2013-09-25,1327.0
-695,32,Howard,Snyder,Eugene,USA,569,542946,2014-01-06,8891.0
-697,32,Howard,Snyder,Eugene,USA,689,543066,2014-03-09,570.0
-698,32,Howard,Snyder,Eugene,USA,759,543136,2014-04-07,391.58
-700,32,Howard,Snyder,Eugene,USA,793,543170,2014-04-22,200.0
-701,32,Howard,Snyder,Eugene,USA,814,543191,2014-04-30,510.0
-702,33,Manuel,Pereira,Caracas,Venezuela,21,542398,2012-07-30,1101.2
-704,33,Manuel,Pereira,Caracas,Venezuela,538,542915,2013-12-18,387.5
-706,34,Mario,Pontes,Rio de Janeiro,Brazil,3,542380,2012-07-08,1813.0
-709,34,Mario,Pontes,Rio de Janeiro,Brazil,6,542383,2012-07-10,1444.8
-712,34,Mario,Pontes,Rio de Janeiro,Brazil,294,542671,2013-05-19,2162.8
-716,34,Mario,Pontes,Rio de Janeiro,Brazil,398,542775,2013-08-26,1535.0
-718,34,Mario,Pontes,Rio de Janeiro,Brazil,443,542820,2013-10-02,1150.0
-720,34,Mario,Pontes,Rio de Janeiro,Brazil,523,542900,2013-12-09,315.0
-722,34,Mario,Pontes,Rio de Janeiro,Brazil,775,543152,2014-04-14,1402.0
-724,34,Mario,Pontes,Rio de Janeiro,Brazil,805,543182,2014-04-27,1665.0
-726,34,Mario,Pontes,Rio de Janeiro,Brazil,536,542913,2013-12-18,1442.5
-728,34,Mario,Pontes,Rio de Janeiro,Brazil,639,543016,2014-02-13,3127.5
-731,34,Mario,Pontes,Rio de Janeiro,Brazil,656,543033,2014-02-24,932.05
-734,34,Mario,Pontes,Rio de Janeiro,Brazil,675,543052,2014-03-03,742.5
-736,34,Mario,Pontes,Rio de Janeiro,Brazil,678,543055,2014-03-04,559.0
-738,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,10,542387,2012-07-16,1119.9
-741,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,148,542525,2012-12-26,2333.2
-744,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,229,542606,2013-03-17,182.4
-746,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,239,542616,2013-03-26,1272.0
-749,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,243,542620,2013-03-31,3163.2
-752,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,251,542628,2013-04-07,575.0
-755,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,616,542993,2014-02-02,519.0
-757,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,654,543031,2014-02-23,934.5
-759,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,710,543087,2014-03-18,1762.7
-762,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,713,543090,2014-03-19,276.6
-764,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,729,543106,2014-03-25,912.0
-765,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,808,543185,2014-04-28,1727.5
-769,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,305,542682,2013-05-29,880.5
-771,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,354,542731,2013-07-16,2285.0
-773,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,366,542743,2013-07-29,358.0
-775,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,394,542771,2013-08-22,2054.0
-777,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,458,542835,2013-10-15,378.0
-779,35,Carlos,Hern?ndez,San Crist?bal,Venezuela,549,542926,2013-12-25,2878.08
-783,36,Yoshi,Latimer,Elgin,USA,128,542505,2012-12-06,338.0
-785,36,Yoshi,Latimer,Elgin,USA,147,542524,2012-12-25,442.0
-787,36,Yoshi,Latimer,Elgin,USA,168,542545,2013-01-15,102.4
-789,36,Yoshi,Latimer,Elgin,USA,353,542730,2013-07-16,479.8
-791,36,Yoshi,Latimer,Elgin,USA,413,542790,2013-09-08,1701.0
-792,37,Patricia,McKenna,Cork,Ireland,51,542428,2012-09-05,3127.0
-796,37,Patricia,McKenna,Cork,Ireland,62,542439,2012-09-19,1762.0
-801,37,Patricia,McKenna,Cork,Ireland,88,542465,2012-10-22,2545.2
-805,37,Patricia,McKenna,Cork,Ireland,126,542503,2012-12-05,1708.0
-807,37,Patricia,McKenna,Cork,Ireland,133,542510,2012-12-12,1419.8
-811,37,Patricia,McKenna,Cork,Ireland,182,542559,2013-01-29,1748.5
-813,37,Patricia,McKenna,Cork,Ireland,816,543193,2014-04-30,1445.5
-816,37,Patricia,McKenna,Cork,Ireland,454,542831,2013-10-13,3370.0
-819,37,Patricia,McKenna,Cork,Ireland,465,542842,2013-10-21,1238.4
-821,37,Patricia,McKenna,Cork,Ireland,489,542866,2013-11-11,997.0
-823,37,Patricia,McKenna,Cork,Ireland,650,543027,2014-02-19,10835.24
-825,37,Patricia,McKenna,Cork,Ireland,665,543042,2014-02-26,8267.4
-827,37,Patricia,McKenna,Cork,Ireland,738,543115,2014-03-30,2248.2
-830,37,Patricia,McKenna,Cork,Ireland,256,542633,2013-04-11,2048.5
-832,37,Patricia,McKenna,Cork,Ireland,269,542646,2013-04-24,2614.5
-835,37,Patricia,McKenna,Cork,Ireland,320,542697,2013-06-12,3109.0
-838,37,Patricia,McKenna,Cork,Ireland,399,542776,2013-08-27,1928.0
-842,37,Patricia,McKenna,Cork,Ireland,414,542791,2013-09-09,703.25
-844,37,Patricia,McKenna,Cork,Ireland,440,542817,2013-09-30,6201.9
-847,38,Helen,Bennett,Cowes,UK,68,542445,2012-09-26,516.8
-849,38,Helen,Bennett,Cowes,UK,71,542448,2012-10-01,240.4
-851,38,Helen,Bennett,Cowes,UK,74,542451,2012-10-03,144.0
-852,38,Helen,Bennett,Cowes,UK,502,542879,2013-11-20,1080.0
-855,38,Helen,Bennett,Cowes,UK,551,542928,2013-12-26,446.6
-857,38,Helen,Bennett,Cowes,UK,582,542959,2014-01-13,1764.0
-861,38,Helen,Bennett,Cowes,UK,686,543063,2014-03-06,920.6
-863,38,Helen,Bennett,Cowes,UK,374,542751,2013-08-05,758.5
-867,38,Helen,Bennett,Cowes,UK,427,542804,2013-09-18,45.0
-868,38,Helen,Bennett,Cowes,UK,226,542603,2013-03-13,230.4
-870,39,Philip,Cramer,Brandenburg,Germany,76,542453,2012-10-07,164.4
-873,39,Philip,Cramer,Brandenburg,Germany,78,542455,2012-10-09,1497.0
-878,39,Philip,Cramer,Brandenburg,Germany,209,542586,2013-02-25,656.0
-880,39,Philip,Cramer,Brandenburg,Germany,210,542587,2013-02-25,1584.0
-881,39,Philip,Cramer,Brandenburg,Germany,221,542598,2013-03-07,717.6
-883,39,Philip,Cramer,Brandenburg,Germany,570,542947,2014-01-06,11490.7
-887,39,Philip,Cramer,Brandenburg,Germany,602,542979,2014-01-23,1052.14
-889,39,Philip,Cramer,Brandenburg,Germany,646,543023,2014-02-18,5502.11
-894,39,Philip,Cramer,Brandenburg,Germany,781,543158,2014-04-16,2160.0
-896,39,Philip,Cramer,Brandenburg,Germany,259,542636,2013-04-15,462.0
-898,39,Philip,Cramer,Brandenburg,Germany,295,542672,2013-05-20,493.8
-900,39,Philip,Cramer,Brandenburg,Germany,383,542760,2013-08-13,918.0
-902,39,Philip,Cramer,Brandenburg,Germany,471,542848,2013-10-27,3463.0
-906,39,Philip,Cramer,Brandenburg,Germany,552,542929,2013-12-26,1585.0
-909,40,Daniel,Tonini,Versailles,France,680,543057,2014-03-05,800.0
-912,40,Daniel,Tonini,Versailles,France,725,543102,2014-03-24,251.5
-914,40,Daniel,Tonini,Versailles,France,726,543103,2014-03-24,291.55
-917,40,Daniel,Tonini,Versailles,France,611,542988,2014-01-29,649.0
-920,41,Annette,Roulet,Toulouse,France,103,542480,2012-11-11,713.4
-922,41,Annette,Roulet,Toulouse,France,111,542488,2012-11-20,452.0
-925,41,Annette,Roulet,Toulouse,France,124,542501,2012-12-03,91.2
-926,41,Annette,Roulet,Toulouse,France,166,542543,2013-01-14,2123.2
-929,41,Annette,Roulet,Toulouse,France,178,542555,2013-01-24,480.0
-931,41,Annette,Roulet,Toulouse,France,207,542584,2013-02-21,414.0
-934,41,Annette,Roulet,Toulouse,France,676,543053,2014-03-03,936.0
-937,41,Annette,Roulet,Toulouse,France,804,543181,2014-04-27,45.0
-938,41,Annette,Roulet,Toulouse,France,540,542917,2013-12-19,2760.8
-940,41,Annette,Roulet,Toulouse,France,585,542962,2014-01-14,568.95
-944,41,Annette,Roulet,Toulouse,France,246,542623,2013-04-02,676.0
-947,41,Annette,Roulet,Toulouse,France,253,542630,2013-04-09,550.8
-949,41,Annette,Roulet,Toulouse,France,363,542740,2013-07-25,399.0
-950,41,Annette,Roulet,Toulouse,France,384,542761,2013-08-14,62.0
-951,42,Yoshi,Tannamuri,Vancouver,Canada,248,542625,2013-04-03,278.0
-954,42,Yoshi,Tannamuri,Vancouver,Canada,373,542750,2013-08-05,57.5
-956,42,Yoshi,Tannamuri,Vancouver,Canada,563,542940,2014-01-01,187.0
-959,43,John,Steel,Walla Walla,USA,235,542612,2013-03-21,147.0
-960,43,John,Steel,Walla Walla,USA,298,542675,2013-05-22,210.0
-961,44,Renate,Messner,Frankfurt a.M.,Germany,32,542409,2012-08-13,468.0
-962,44,Renate,Messner,Frankfurt a.M.,Germany,37,542414,2012-08-19,1452.0
-966,44,Renate,Messner,Frankfurt a.M.,Germany,96,542473,2012-10-31,1586.0
-969,44,Renate,Messner,Frankfurt a.M.,Germany,687,543064,2014-03-09,500.0
-970,44,Renate,Messner,Frankfurt a.M.,Germany,823,543200,2014-05-05,1873.5
-974,44,Renate,Messner,Frankfurt a.M.,Germany,525,542902,2013-12-10,3603.22
-976,44,Renate,Messner,Frankfurt a.M.,Germany,615,542992,2014-01-30,581.0
-978,44,Renate,Messner,Frankfurt a.M.,Germany,644,543021,2014-02-17,388.35
-979,44,Renate,Messner,Frankfurt a.M.,Germany,310,542687,2013-06-03,1152.5
-981,44,Renate,Messner,Frankfurt a.M.,Germany,345,542722,2013-07-08,543.65
-983,44,Renate,Messner,Frankfurt a.M.,Germany,346,542723,2013-07-09,2493.0
-986,44,Renate,Messner,Frankfurt a.M.,Germany,250,542627,2013-04-04,1380.6
-989,44,Renate,Messner,Frankfurt a.M.,Germany,275,542652,2013-04-30,2657.8
-993,44,Renate,Messner,Frankfurt a.M.,Germany,287,542664,2013-05-12,517.4
-996,44,Renate,Messner,Frankfurt a.M.,Germany,289,542666,2013-05-14,2085.0
-1000,45,Jaime,Yorres,San Francisco,USA,332,542709,2013-06-25,317.75
-1002,45,Jaime,Yorres,San Francisco,USA,472,542849,2013-10-27,1125.67
-1005,45,Jaime,Yorres,San Francisco,USA,488,542865,2013-11-10,596.0
-1007,45,Jaime,Yorres,San Francisco,USA,637,543014,2014-02-12,1450.6
-1010,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,36,542413,2012-08-16,1414.8
-1014,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,49,542426,2012-09-03,1050.6
-1017,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,83,542460,2012-10-16,1940.0
-1019,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,110,542487,2012-11-19,1360.0
-1022,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,134,542511,2012-12-12,112.0
-1023,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,214,542591,2013-02-28,2051.6
-1026,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,818,543195,2014-05-01,252.56
-1028,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,824,543201,2014-05-05,510.0
-1030,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,252,542629,2013-04-08,1412.0
-1032,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,296,542673,2013-05-21,1770.0
-1034,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,533,542910,2013-12-16,720.0
-1036,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,576,542953,2014-01-09,3107.5
-1040,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,652,543029,2014-02-20,144.0
-1041,46,Carlos,Gonz?lez,Barquisimeto,Venezuela,750,543127,2014-04-03,1980.0
-1044,47,Felipe,Izquierdo,I. de Margarita,Venezuela,158,542535,2013-01-06,400.0
-1045,47,Felipe,Izquierdo,I. de Margarita,Venezuela,238,542615,2013-03-25,1760.0
-1049,47,Felipe,Izquierdo,I. de Margarita,Venezuela,391,542768,2013-08-20,2720.05
-1052,47,Felipe,Izquierdo,I. de Margarita,Venezuela,450,542827,2013-10-08,1073.9
-1056,47,Felipe,Izquierdo,I. de Margarita,Venezuela,482,542859,2013-11-04,1850.0
-1059,47,Felipe,Izquierdo,I. de Margarita,Venezuela,564,542941,2014-01-02,852.0
-1062,47,Felipe,Izquierdo,I. de Margarita,Venezuela,591,542968,2014-01-19,2584.5
-1065,47,Felipe,Izquierdo,I. de Margarita,Venezuela,593,542970,2014-01-19,264.0
-1067,47,Felipe,Izquierdo,I. de Margarita,Venezuela,672,543049,2014-03-02,1122.8
-1070,47,Felipe,Izquierdo,I. de Margarita,Venezuela,707,543084,2014-03-17,1902.1
-1074,47,Felipe,Izquierdo,I. de Margarita,Venezuela,767,543144,2014-04-10,270.2
-1075,47,Felipe,Izquierdo,I. de Margarita,Venezuela,792,543169,2014-04-21,3090.0
-1079,48,Fran,Wilson,Portland,USA,60,542437,2012-09-17,424.0
-1081,48,Fran,Wilson,Portland,USA,70,542447,2012-09-30,288.0
-1082,48,Fran,Wilson,Portland,USA,297,542674,2013-05-21,417.2
-1084,48,Fran,Wilson,Portland,USA,415,542792,2013-09-09,125.0
-1085,48,Fran,Wilson,Portland,USA,418,542795,2013-09-11,1295.0
-1088,48,Fran,Wilson,Portland,USA,620,542997,2014-02-03,98.4
-1089,48,Fran,Wilson,Portland,USA,636,543013,2014-02-12,36.0
-1090,48,Fran,Wilson,Portland,USA,771,543148,2014-04-13,1575.0
-1093,49,Giovanni,Rovelli,Bergamo,Italy,28,542405,2012-08-07,307.2
-1095,49,Giovanni,Rovelli,Bergamo,Italy,53,542430,2012-09-09,608.0
-1097,49,Giovanni,Rovelli,Bergamo,Italy,157,542534,2013-01-03,1675.0
-1100,49,Giovanni,Rovelli,Bergamo,Italy,220,542597,2013-03-06,235.2
-1102,49,Giovanni,Rovelli,Bergamo,Italy,388,542765,2013-08-18,1380.25
-1105,49,Giovanni,Rovelli,Bergamo,Italy,507,542884,2013-11-25,55.2
-1106,49,Giovanni,Rovelli,Bergamo,Italy,537,542914,2013-12-18,1650.0
-1109,49,Giovanni,Rovelli,Bergamo,Italy,571,542948,2014-01-07,833.0
-1111,49,Giovanni,Rovelli,Bergamo,Italy,692,543069,2014-03-10,750.0
-1113,49,Giovanni,Rovelli,Bergamo,Italy,703,543080,2014-03-16,110.0
-1114,50,Catherine,Dewey,Bruxelles,Belgium,282,542659,2013-05-07,946.0
-1117,50,Catherine,Dewey,Bruxelles,Belgium,402,542779,2013-08-28,1434.0
-1119,50,Catherine,Dewey,Bruxelles,Belgium,513,542890,2013-12-01,3304.0
-1122,50,Catherine,Dewey,Bruxelles,Belgium,645,543022,2014-02-17,2200.0
-1123,50,Catherine,Dewey,Bruxelles,Belgium,649,543026,2014-02-19,750.5
-1125,50,Catherine,Dewey,Bruxelles,Belgium,731,543108,2014-03-26,1500.7
-1129,50,Catherine,Dewey,Bruxelles,Belgium,757,543134,2014-04-07,295.38
-1131,51,Jean,Fresnière,Montréal,Canada,85,542462,2012-10-17,2233.6
-1134,51,Jean,Fresnière,Montréal,Canada,92,542469,2012-10-28,3463.2
-1137,51,Jean,Fresnière,Montréal,Canada,129,542506,2012-12-09,420.0
-1138,51,Jean,Fresnière,Montréal,Canada,177,542554,2013-01-23,11493.2
-1141,51,Jean,Fresnière,Montréal,Canada,192,542569,2013-02-07,1078.0
-1145,51,Jean,Fresnière,Montréal,Canada,258,542635,2013-04-14,147.9
-1146,51,Jean,Fresnière,Montréal,Canada,477,542854,2013-10-30,638.5
-1148,51,Jean,Fresnière,Montréal,Canada,318,542695,2013-06-11,711.0
-1150,51,Jean,Fresnière,Montréal,Canada,323,542700,2013-06-17,2595.0
-1152,51,Jean,Fresnière,Montréal,Canada,343,542720,2013-07-07,1140.0
-1154,51,Jean,Fresnière,Montréal,Canada,358,542735,2013-07-21,4326.0
-1158,51,Jean,Fresnière,Montréal,Canada,371,542748,2013-08-01,2697.5
-1161,51,Jean,Fresnière,Montréal,Canada,372,542749,2013-08-04,1260.0
-1163,52,Alexander,Feuer,Leipzig,Germany,30,542407,2012-08-09,1200.8
-1165,52,Alexander,Feuer,Leipzig,Germany,328,542705,2013-06-20,2147.4
-1169,52,Alexander,Feuer,Leipzig,Germany,452,542829,2013-10-09,114.0
-1170,52,Alexander,Feuer,Leipzig,Germany,532,542909,2013-12-16,1335.0
-1172,52,Alexander,Feuer,Leipzig,Germany,698,543075,2014-03-12,245.0
-1174,53,Simon,Crowther,London,UK,270,542647,2013-04-24,352.0
-1177,53,Simon,Crowther,London,UK,505,542882,2013-11-24,252.0
-1179,53,Simon,Crowther,London,UK,810,543187,2014-04-29,45.0
-1180,54,Yvonne,Moncada,Buenos Aires,Argentina,162,542539,2013-01-09,319.2
-1182,54,Yvonne,Moncada,Buenos Aires,Argentina,284,542661,2013-05-08,110.0
-1183,54,Yvonne,Moncada,Buenos Aires,Argentina,651,543028,2014-02-20,30.0
-1184,54,Yvonne,Moncada,Buenos Aires,Argentina,711,543088,2014-03-18,781.0
-1187,54,Yvonne,Moncada,Buenos Aires,Argentina,739,543116,2014-03-30,2220.0
-1191,55,Rene,Phillips,Anchorage,USA,58,542435,2012-09-13,4157.0
-1194,55,Rene,Phillips,Anchorage,USA,91,542468,2012-10-25,934.5
-1196,55,Rene,Phillips,Anchorage,USA,194,542571,2013-02-10,1755.0
-1197,55,Rene,Phillips,Anchorage,USA,347,542724,2013-07-09,565.5
-1199,55,Rene,Phillips,Anchorage,USA,433,542810,2013-09-24,1682.5
-1202,55,Rene,Phillips,Anchorage,USA,459,542836,2013-10-16,1893.0
-1205,55,Rene,Phillips,Anchorage,USA,561,542938,2014-01-01,1660.0
-1207,55,Rene,Phillips,Anchorage,USA,608,542985,2014-01-27,2275.25
-1211,55,Rene,Phillips,Anchorage,USA,718,543095,2014-03-20,848.0
-1212,55,Rene,Phillips,Anchorage,USA,787,543164,2014-04-20,554.4
-1215,56,Henriette,Pfalzheim,K?ln,Germany,13,542390,2012-07-19,1746.2
-1219,56,Henriette,Pfalzheim,K?ln,Germany,160,542537,2013-01-07,1194.0
-1222,56,Henriette,Pfalzheim,K?ln,Germany,261,542638,2013-04-16,240.0
-1224,56,Henriette,Pfalzheim,K?ln,Germany,307,542684,2013-05-30,1819.5
-1228,56,Henriette,Pfalzheim,K?ln,Germany,333,542710,2013-06-26,1067.1
-1231,56,Henriette,Pfalzheim,K?ln,Germany,437,542814,2013-09-26,1768.0
-1234,56,Henriette,Pfalzheim,K?ln,Germany,519,542896,2013-12-05,2310.0
-1237,56,Henriette,Pfalzheim,K?ln,Germany,586,542963,2014-01-15,1007.7
-1240,56,Henriette,Pfalzheim,K?ln,Germany,752,543129,2014-04-03,1261.0
-1243,56,Henriette,Pfalzheim,K?ln,Germany,773,543150,2014-04-14,744.0
-1245,58,Guillermo,Fern?ndez,México D.F.,Mexico,75,542452,2012-10-04,112.0
-1246,58,Guillermo,Fern?ndez,México D.F.,Mexico,107,542484,2012-11-14,568.8
-1248,58,Guillermo,Fern?ndez,México D.F.,Mexico,227,542604,2013-03-13,1249.1
-1252,58,Guillermo,Fern?ndez,México D.F.,Mexico,255,542632,2013-04-10,816.3
-1255,58,Guillermo,Fern?ndez,México D.F.,Mexico,748,543125,2014-04-02,1196.0
-1257,58,Guillermo,Fern?ndez,México D.F.,Mexico,826,543203,2014-05-05,300.0
-1259,59,Georg,Pipps,Salzburg,Austria,106,542483,2012-11-13,10741.6
-1261,59,Georg,Pipps,Salzburg,Austria,145,542522,2012-12-24,1440.0
-1262,59,Georg,Pipps,Salzburg,Austria,180,542557,2013-01-27,651.0
-1263,59,Georg,Pipps,Salzburg,Austria,242,542619,2013-03-28,502.2
-1265,59,Georg,Pipps,Salzburg,Austria,283,542660,2013-05-08,4180.0
-1269,59,Georg,Pipps,Salzburg,Austria,350,542727,2013-07-11,800.1
-1272,59,Georg,Pipps,Salzburg,Austria,439,542816,2013-09-30,1638.45
-1274,59,Georg,Pipps,Salzburg,Austria,500,542877,2013-11-19,1912.85
-1278,59,Georg,Pipps,Salzburg,Austria,597,542974,2014-01-21,735.0
-1279,59,Georg,Pipps,Salzburg,Austria,806,543183,2014-04-27,3658.75
-1282,60,Isabel,de Castro,Lisboa,Portugal,89,542466,2012-10-23,316.8
-1283,60,Isabel,de Castro,Lisboa,Portugal,150,542527,2012-12-27,843.2
-1285,60,Isabel,de Castro,Lisboa,Portugal,186,542563,2013-02-03,851.2
-1286,60,Isabel,de Castro,Lisboa,Portugal,230,542607,2013-03-17,672.0
-1289,60,Isabel,de Castro,Lisboa,Portugal,760,543137,2014-04-08,2633.9
-1292,61,Bernardo,Batista,Rio de Janeiro,Brazil,14,542391,2012-07-19,448.0
-1294,61,Bernardo,Batista,Rio de Janeiro,Brazil,44,542421,2012-08-27,552.8
-1297,61,Bernardo,Batista,Rio de Janeiro,Brazil,132,542509,2012-12-11,959.2
-1300,61,Bernardo,Batista,Rio de Janeiro,Brazil,174,542551,2013-01-21,1273.2
-1304,61,Bernardo,Batista,Rio de Janeiro,Brazil,340,542717,2013-07-02,807.38
-1307,61,Bernardo,Batista,Rio de Janeiro,Brazil,400,542777,2013-08-27,636.0
-1309,61,Bernardo,Batista,Rio de Janeiro,Brazil,473,542850,2013-10-28,550.0
-1311,61,Bernardo,Batista,Rio de Janeiro,Brazil,547,542924,2013-12-24,393.45
-1313,61,Bernardo,Batista,Rio de Janeiro,Brazil,742,543119,2014-03-31,1353.6
-1316,62,L?cia,Carvalho,Sao Paulo,Brazil,125,542502,2012-12-04,12281.2
-1320,62,L?cia,Carvalho,Sao Paulo,Brazil,159,542536,2013-01-07,2018.2
-1325,62,L?cia,Carvalho,Sao Paulo,Brazil,240,542617,2013-03-26,925.1
-1328,62,L?cia,Carvalho,Sao Paulo,Brazil,390,542767,2013-08-19,2896.25
-1331,62,L?cia,Carvalho,Sao Paulo,Brazil,412,542789,2013-09-05,1291.6
-1334,62,L?cia,Carvalho,Sao Paulo,Brazil,714,543091,2014-03-19,1122.0
-1336,62,L?cia,Carvalho,Sao Paulo,Brazil,821,543198,2014-05-04,2384.8
-1339,62,L?cia,Carvalho,Sao Paulo,Brazil,457,542834,2013-10-14,595.5
-1342,62,L?cia,Carvalho,Sao Paulo,Brazil,481,542858,2013-11-04,1296.75
-1346,62,L?cia,Carvalho,Sao Paulo,Brazil,539,542916,2013-12-19,1913.85
-1349,62,L?cia,Carvalho,Sao Paulo,Brazil,621,542998,2014-02-04,2004.6
-1352,62,L?cia,Carvalho,Sao Paulo,Brazil,666,543043,2014-02-26,958.75
-1355,62,L?cia,Carvalho,Sao Paulo,Brazil,667,543044,2014-02-27,537.5
-1356,63,Horst,Kloss,Cunewalde,Germany,26,542403,2012-08-05,2142.4
-1361,63,Horst,Kloss,Cunewalde,Germany,38,542415,2012-08-20,2179.2
-1364,63,Horst,Kloss,Cunewalde,Germany,39,542416,2012-08-21,3016.0
-1366,63,Horst,Kloss,Cunewalde,Germany,66,542443,2012-09-24,182.4
-1367,63,Horst,Kloss,Cunewalde,Germany,98,542475,2012-11-04,2924.8
-1370,63,Horst,Kloss,Cunewalde,Germany,114,542491,2012-11-22,2273.6
-1372,63,Horst,Kloss,Cunewalde,Germany,715,543092,2014-03-19,3584.0
-1377,63,Horst,Kloss,Cunewalde,Germany,744,543121,2014-04-01,2870.0
-1380,63,Horst,Kloss,Cunewalde,Germany,749,543126,2014-04-02,560.0
-1381,63,Horst,Kloss,Cunewalde,Germany,774,543151,2014-04-14,6941.49
-1386,63,Horst,Kloss,Cunewalde,Germany,518,542895,2013-12-04,1684.0
-1387,63,Horst,Kloss,Cunewalde,Germany,541,542918,2013-12-22,770.0
-1389,63,Horst,Kloss,Cunewalde,Germany,598,542975,2014-01-21,4059.0
-1396,63,Horst,Kloss,Cunewalde,Germany,631,543008,2014-02-10,1620.0
-1397,63,Horst,Kloss,Cunewalde,Germany,691,543068,2014-03-10,3642.5
-1401,63,Horst,Kloss,Cunewalde,Germany,341,542718,2013-07-03,3900.0
-1403,63,Horst,Kloss,Cunewalde,Germany,411,542788,2013-09-05,4668.0
-1407,63,Horst,Kloss,Cunewalde,Germany,444,542821,2013-10-03,10164.8
-1412,63,Horst,Kloss,Cunewalde,Germany,447,542824,2013-10-06,4825.0
-1415,63,Horst,Kloss,Cunewalde,Germany,474,542851,2013-10-29,972.5
-1416,63,Horst,Kloss,Cunewalde,Germany,498,542875,2013-11-18,4529.8
-1420,63,Horst,Kloss,Cunewalde,Germany,171,542548,2013-01-17,1814.8
-1424,63,Horst,Kloss,Cunewalde,Germany,204,542581,2013-02-19,4277.4
-1428,63,Horst,Kloss,Cunewalde,Germany,268,542645,2013-04-23,10588.5
-1433,63,Horst,Kloss,Cunewalde,Germany,280,542657,2013-05-05,1670.0
-1435,63,Horst,Kloss,Cunewalde,Germany,293,542670,2013-05-19,10191.7
-1439,63,Horst,Kloss,Cunewalde,Germany,302,542679,2013-05-27,4181.5
-1442,64,Sergio,Gutiérrez,Buenos Aires,Argentina,201,542578,2013-02-17,443.4
-1444,64,Sergio,Gutiérrez,Buenos Aires,Argentina,469,542846,2013-10-24,706.0
-1447,64,Sergio,Gutiérrez,Buenos Aires,Argentina,581,542958,2014-01-13,932.0
-1449,64,Sergio,Gutiérrez,Buenos Aires,Argentina,669,543046,2014-02-27,686.7
-1452,64,Sergio,Gutiérrez,Buenos Aires,Argentina,772,543149,2014-04-13,76.0
-1454,65,Paula,Wilson,Albuquerque,USA,15,542392,2012-07-22,624.8
-1457,65,Paula,Wilson,Albuquerque,USA,25,542402,2012-08-02,1456.0
-1460,65,Paula,Wilson,Albuquerque,USA,47,542424,2012-08-30,1887.6
-1465,65,Paula,Wilson,Albuquerque,USA,67,542444,2012-09-25,2327.0
-1468,65,Paula,Wilson,Albuquerque,USA,69,542446,2012-09-27,2835.0
-1470,65,Paula,Wilson,Albuquerque,USA,99,542476,2012-11-05,1731.2
-1472,65,Paula,Wilson,Albuquerque,USA,573,542950,2014-01-07,1140.0
-1473,65,Paula,Wilson,Albuquerque,USA,605,542982,2014-01-26,2984.0
-1476,65,Paula,Wilson,Albuquerque,USA,642,543019,2014-02-16,11380.0
-1478,65,Paula,Wilson,Albuquerque,USA,741,543118,2014-03-31,3772.0
-1480,65,Paula,Wilson,Albuquerque,USA,753,543130,2014-04-06,1075.0
-1483,65,Paula,Wilson,Albuquerque,USA,830,543207,2014-05-06,1374.6
-1508,65,Paula,Wilson,Albuquerque,USA,154,542531,2013-01-01,3868.6
-1512,65,Paula,Wilson,Albuquerque,USA,232,542609,2013-03-19,10495.6
-1516,65,Paula,Wilson,Albuquerque,USA,317,542694,2013-06-10,1299.0
-1519,65,Paula,Wilson,Albuquerque,USA,322,542699,2013-06-16,977.5
-1521,65,Paula,Wilson,Albuquerque,USA,351,542728,2013-07-14,2388.5
-1523,65,Paula,Wilson,Albuquerque,USA,514,542891,2013-12-02,629.5
-1525,66,Maurizio,Moroni,Reggio Emilia,Italy,41,542418,2012-08-23,89.0
-1527,66,Maurizio,Moroni,Reggio Emilia,Italy,181,542558,2013-01-28,192.0
-1528,66,Maurizio,Moroni,Reggio Emilia,Italy,196,542573,2013-02-12,537.6
-1530,66,Maurizio,Moroni,Reggio Emilia,Italy,315,542692,2013-06-09,543.0
-1532,66,Maurizio,Moroni,Reggio Emilia,Italy,339,542716,2013-07-02,28.0
-1533,66,Maurizio,Moroni,Reggio Emilia,Italy,763,543140,2014-04-09,645.0
-1535,66,Maurizio,Moroni,Reggio Emilia,Italy,815,543192,2014-04-30,508.0
-1537,66,Maurizio,Moroni,Reggio Emilia,Italy,408,542785,2013-09-03,193.0
-1538,66,Maurizio,Moroni,Reggio Emilia,Italy,480,542857,2013-11-03,1710.0
-1541,66,Maurizio,Moroni,Reggio Emilia,Italy,565,542942,2014-01-02,1852.0
-1544,66,Maurizio,Moroni,Reggio Emilia,Italy,661,543038,2014-02-26,698.0
-1546,66,Maurizio,Moroni,Reggio Emilia,Italy,695,543072,2014-03-11,560.0
-1547,67,Janete,Limeira,Rio de Janeiro,Brazil,40,542417,2012-08-22,924.0
-1550,67,Janete,Limeira,Rio de Janeiro,Brazil,52,542429,2012-09-06,349.5
-1552,67,Janete,Limeira,Rio de Janeiro,Brazil,200,542577,2013-02-14,914.4
-1555,67,Janete,Limeira,Rio de Janeiro,Brazil,234,542611,2013-03-20,1472.0
-1557,67,Janete,Limeira,Rio de Janeiro,Brazil,316,542693,2013-06-10,965.0
-1559,67,Janete,Limeira,Rio de Janeiro,Brazil,375,542752,2013-08-06,605.0
-1561,67,Janete,Limeira,Rio de Janeiro,Brazil,401,542778,2013-08-28,382.5
-1563,67,Janete,Limeira,Rio de Janeiro,Brazil,566,542943,2014-01-05,648.0
-1565,67,Janete,Limeira,Rio de Janeiro,Brazil,604,542981,2014-01-26,2740.0
-1569,67,Janete,Limeira,Rio de Janeiro,Brazil,630,543007,2014-02-09,2086.0
-1571,67,Janete,Limeira,Rio de Janeiro,Brazil,812,543189,2014-04-29,1838.0
-1574,68,Michael,Holz,Genève,Switzerland,8,542385,2012-07-12,2490.5
-1578,68,Michael,Holz,Genève,Switzerland,172,542549,2013-01-20,2208.0
-1580,68,Michael,Holz,Genève,Switzerland,828,543205,2014-05-06,586.0
-1583,68,Michael,Holz,Genève,Switzerland,511,542888,2013-11-28,1644.6
-1586,68,Michael,Holz,Genève,Switzerland,684,543061,2014-03-06,837.0
-1588,68,Michael,Holz,Genève,Switzerland,704,543081,2014-03-16,482.9
-1591,68,Michael,Holz,Genève,Switzerland,786,543163,2014-04-17,3592.0
-1593,68,Michael,Holz,Genève,Switzerland,290,542667,2013-05-14,1823.8
-1598,68,Michael,Holz,Genève,Switzerland,419,542796,2013-09-12,4666.94
-1600,68,Michael,Holz,Genève,Switzerland,504,542881,2013-11-24,1701.46
-1604,69,Alejandra,Camino,Madrid,Spain,34,542411,2012-08-14,86.5
-1607,69,Alejandra,Camino,Madrid,Spain,35,542412,2012-08-15,155.4
-1609,69,Alejandra,Camino,Madrid,Spain,59,542436,2012-09-16,498.5
-1612,69,Alejandra,Camino,Madrid,Spain,670,543047,2014-03-02,365.89
-1614,69,Alejandra,Camino,Madrid,Spain,766,543143,2014-04-09,361.0
-1618,70,Jonas,Bergulfsen,Stavern,Norway,140,542517,2012-12-18,1058.4
-1622,70,Jonas,Bergulfsen,Stavern,Norway,273,542650,2013-04-29,200.0
-1624,70,Jonas,Bergulfsen,Stavern,Norway,392,542769,2013-08-20,500.0
-1625,70,Jonas,Bergulfsen,Stavern,Norway,584,542961,2014-01-14,2684.4
-1629,70,Jonas,Bergulfsen,Stavern,Norway,662,543039,2014-02-26,670.0
-1632,70,Jonas,Bergulfsen,Stavern,Norway,768,543145,2014-04-10,622.35
-1634,71,Jose,Pavarotti,Boise,USA,77,542454,2012-10-08,6155.9
-1639,71,Jose,Pavarotti,Boise,USA,146,542523,2012-12-25,3302.6
-1644,71,Jose,Pavarotti,Boise,USA,151,542528,2012-12-30,2736.0
-1646,71,Jose,Pavarotti,Boise,USA,193,542570,2013-02-10,5793.1
-1650,71,Jose,Pavarotti,Boise,USA,205,542582,2013-02-20,2096.0
-1652,71,Jose,Pavarotti,Boise,USA,263,542640,2013-04-18,4735.44
-1654,71,Jose,Pavarotti,Boise,USA,817,543194,2014-05-01,4722.3
-1659,71,Jose,Pavarotti,Boise,USA,694,543071,2014-03-11,4769.0
-1663,71,Jose,Pavarotti,Boise,USA,736,543113,2014-03-27,796.5
-1665,71,Jose,Pavarotti,Boise,USA,737,543114,2014-03-30,1809.75
-1668,71,Jose,Pavarotti,Boise,USA,755,543132,2014-04-06,1902.0
-1676,71,Jose,Pavarotti,Boise,USA,784,543161,2014-04-17,2393.5
-1681,71,Jose,Pavarotti,Boise,USA,501,542878,2013-11-20,2196.0
-1684,71,Jose,Pavarotti,Boise,USA,510,542887,2013-11-27,3082.0
-1688,71,Jose,Pavarotti,Boise,USA,568,542945,2014-01-05,40.0
-1689,71,Jose,Pavarotti,Boise,USA,600,542977,2014-01-22,6164.9
-1695,71,Jose,Pavarotti,Boise,USA,635,543012,2014-02-11,988.4
-1698,71,Jose,Pavarotti,Boise,USA,647,543024,2014-02-18,2898.0
-1701,71,Jose,Pavarotti,Boise,USA,431,542808,2013-09-23,5256.5
-1705,71,Jose,Pavarotti,Boise,USA,453,542830,2013-10-10,2048.0
-1709,71,Jose,Pavarotti,Boise,USA,464,542841,2013-10-21,4451.7
-1712,71,Jose,Pavarotti,Boise,USA,466,542843,2013-10-22,2827.9
-1716,71,Jose,Pavarotti,Boise,USA,467,542844,2013-10-22,2941.0
-1721,71,Jose,Pavarotti,Boise,USA,475,542852,2013-10-29,1570.0
-1725,71,Jose,Pavarotti,Boise,USA,308,542685,2013-06-02,3680.5
-1730,71,Jose,Pavarotti,Boise,USA,356,542733,2013-07-18,1508.0
-1732,71,Jose,Pavarotti,Boise,USA,360,542737,2013-07-22,6475.4
-1737,71,Jose,Pavarotti,Boise,USA,365,542742,2013-07-28,6375.0
-1742,71,Jose,Pavarotti,Boise,USA,380,542757,2013-08-11,1264.5
-1744,71,Jose,Pavarotti,Boise,USA,410,542787,2013-09-04,4371.6
-1750,72,Hari,Kumar,London,UK,112,542489,2012-11-21,3654.4
-1753,72,Hari,Kumar,London,UK,130,542507,2012-12-09,1016.0
-1755,72,Hari,Kumar,London,UK,141,542518,2012-12-19,1274.0
-1758,72,Hari,Kumar,London,UK,225,542602,2013-03-12,1051.2
-1760,72,Hari,Kumar,London,UK,276,542653,2013-05-01,2715.9
-1764,72,Hari,Kumar,London,UK,300,542677,2013-05-23,1908.0
-1766,72,Hari,Kumar,London,UK,553,542930,2013-12-26,1632.15
-1769,72,Hari,Kumar,London,UK,557,542934,2013-12-30,2290.4
-1772,72,Hari,Kumar,London,UK,622,542999,2014-02-04,1630.0
-1776,73,Jytte,Petersen,Kobenhavn,Denmark,94,542471,2012-10-29,412.0
-1778,73,Jytte,Petersen,Kobenhavn,Denmark,170,542547,2013-01-16,11283.2
-1782,73,Jytte,Petersen,Kobenhavn,Denmark,309,542686,2013-06-03,835.2
-1783,73,Jytte,Petersen,Kobenhavn,Denmark,395,542772,2013-08-22,870.0
-1785,73,Jytte,Petersen,Kobenhavn,Denmark,422,542799,2013-09-15,570.0
-1786,73,Jytte,Petersen,Kobenhavn,Denmark,555,542932,2013-12-29,3923.75
-1790,73,Jytte,Petersen,Kobenhavn,Denmark,827,543204,2014-05-06,244.3
-1791,74,Dominique,Perrier,Paris,France,491,542868,2013-11-12,52.35
-1792,74,Dominique,Perrier,Paris,France,660,543037,2014-02-25,108.5
-1793,74,Dominique,Perrier,Paris,France,717,543094,2014-03-20,2052.5
-1796,74,Dominique,Perrier,Paris,France,796,543173,2014-04-22,210.0
-1797,75,Art,Braunschweiger,Lander,USA,24,542401,2012-08-01,48.0
-1798,75,Art,Braunschweiger,Lander,USA,82,542459,2012-10-15,4819.4
-1802,75,Art,Braunschweiger,Lander,USA,102,542479,2012-11-08,141.6
-1803,75,Art,Braunschweiger,Lander,USA,122,542499,2012-12-02,2527.2
-1805,75,Art,Braunschweiger,Lander,USA,138,542515,2012-12-17,864.0
-1808,75,Art,Braunschweiger,Lander,USA,185,542562,2013-01-31,485.0
-1810,75,Art,Braunschweiger,Lander,USA,509,542886,2013-11-27,2487.5
-1814,75,Art,Braunschweiger,Lander,USA,574,542951,2014-01-08,678.0
-1816,75,Art,Braunschweiger,Lander,USA,727,543104,2014-03-25,439.0
-1817,76,Pascale,Cartrain,Charleroi,Belgium,5,542382,2012-07-09,3730.0
-1820,76,Pascale,Cartrain,Charleroi,Belgium,55,542432,2012-09-10,2708.8
-1823,76,Pascale,Cartrain,Charleroi,Belgium,211,542588,2013-02-26,3891.0
-1828,76,Pascale,Cartrain,Charleroi,Belgium,216,542593,2013-03-04,713.3
-1830,76,Pascale,Cartrain,Charleroi,Belgium,228,542605,2013-03-14,1770.8
-1833,76,Pascale,Cartrain,Charleroi,Belgium,520,542897,2013-12-05,28.0
-1834,76,Pascale,Cartrain,Charleroi,Belgium,594,542971,2014-01-20,4581.0
-1838,76,Pascale,Cartrain,Charleroi,Belgium,599,542976,2014-01-22,1112.0
-1841,76,Pascale,Cartrain,Charleroi,Belgium,638,543015,2014-02-12,1209.0
-1845,76,Pascale,Cartrain,Charleroi,Belgium,683,543060,2014-03-06,2455.0
-1849,76,Pascale,Cartrain,Charleroi,Belgium,788,543165,2014-04-20,1754.5
-1853,76,Pascale,Cartrain,Charleroi,Belgium,791,543168,2014-04-21,751.0
-1856,77,Liz,Nixon,Portland,USA,63,542440,2012-09-20,336.0
-1858,77,Liz,Nixon,Portland,USA,461,542838,2013-10-17,180.4
-1860,77,Liz,Nixon,Portland,USA,558,542935,2013-12-30,2775.0
-1862,77,Liz,Nixon,Portland,USA,745,543122,2014-04-01,69.6
-1863,78,Liu,Wong,Butte,USA,377,542754,2013-08-07,1393.24
-1866,78,Liu,Wong,Butte,USA,756,543133,2014-04-06,326.0
-1869,78,Liu,Wong,Butte,USA,528,542905,2013-12-12,228.0
-1871,79,Karin,Josephs,Münster,Germany,2,542379,2012-07-05,1863.4
-1873,79,Karin,Josephs,Münster,Germany,191,542568,2013-02-06,567.5
-1876,79,Karin,Josephs,Münster,Germany,199,542576,2013-02-14,273.6
-1880,79,Karin,Josephs,Münster,Germany,301,542678,2013-05-26,275.1
-1882,79,Karin,Josephs,Münster,Germany,361,542738,2013-07-23,1064.0
-1883,79,Karin,Josephs,Münster,Germany,720,543097,2014-03-23,910.4
-1885,80,Miguel,Angel Paolino,México D.F.,Mexico,29,542406,2012-08-08,420.0
-1887,80,Miguel,Angel Paolino,México D.F.,Mexico,46,542423,2012-08-29,848.7
-1891,80,Miguel,Angel Paolino,México D.F.,Mexico,57,542434,2012-09-12,954.4
-1894,80,Miguel,Angel Paolino,México D.F.,Mexico,72,542449,2012-10-02,1191.2
-1897,80,Miguel,Angel Paolino,México D.F.,Mexico,822,543199,2014-05-04,360.0
-1898,80,Miguel,Angel Paolino,México D.F.,Mexico,595,542972,2014-01-20,975.0
-1902,80,Miguel,Angel Paolino,México D.F.,Mexico,668,543045,2014-02-27,539.5
-1905,80,Miguel,Angel Paolino,México D.F.,Mexico,271,542648,2013-04-25,4150.05
-1908,80,Miguel,Angel Paolino,México D.F.,Mexico,329,542706,2013-06-23,838.45
-1911,80,Miguel,Angel Paolino,México D.F.,Mexico,429,542806,2013-09-22,534.85
-1914,81,Anabela,Domingues,Sao Paulo,Brazil,45,542422,2012-08-28,1296.0
-1915,81,Anabela,Domingues,Sao Paulo,Brazil,249,542626,2013-04-04,200.0
-1916,81,Anabela,Domingues,Sao Paulo,Brazil,359,542736,2013-07-22,1413.0
-1919,81,Anabela,Domingues,Sao Paulo,Brazil,583,542960,2014-01-13,1974.0
-1923,81,Anabela,Domingues,Sao Paulo,Brazil,587,542964,2014-01-15,1508.12
-1925,81,Anabela,Domingues,Sao Paulo,Brazil,592,542969,2014-01-19,919.5
-1927,82,Helvetius,Nagy,Kirkland,USA,327,542704,2013-06-19,764.3
-1931,82,Helvetius,Nagy,Kirkland,USA,330,542707,2013-06-23,569.0
-1934,82,Helvetius,Nagy,Kirkland,USA,575,542952,2014-01-08,237.9
-1936,83,Palle,Ibsen,?rhus,Denmark,120,542497,2012-11-28,834.2
-1940,83,Palle,Ibsen,?rhus,Denmark,152,542529,2012-12-31,1765.6
-1944,83,Palle,Ibsen,?rhus,Denmark,218,542595,2013-03-05,2719.0
-1949,83,Palle,Ibsen,?rhus,Denmark,344,542721,2013-07-07,812.5
-1952,83,Palle,Ibsen,?rhus,Denmark,355,542732,2013-07-17,65.0
-1953,83,Palle,Ibsen,?rhus,Denmark,441,542818,2013-10-01,3490.0
-1956,83,Palle,Ibsen,?rhus,Denmark,497,542874,2013-11-17,920.0
-1957,83,Palle,Ibsen,?rhus,Denmark,522,542899,2013-12-08,1704.0
-1961,83,Palle,Ibsen,?rhus,Denmark,674,543051,2014-03-03,1936.0
-1963,83,Palle,Ibsen,?rhus,Denmark,699,543076,2014-03-12,1407.5
-1966,83,Palle,Ibsen,?rhus,Denmark,747,543124,2014-04-02,990.0
-1967,84,Mary,Saveley,Lyon,France,4,542381,2012-07-08,670.8
-1970,84,Mary,Saveley,Lyon,France,87,542464,2012-10-21,144.8
-1972,84,Mary,Saveley,Lyon,France,203,542580,2013-02-19,531.4
-1974,84,Mary,Saveley,Lyon,France,212,542589,2013-02-27,1688.0
-1977,84,Mary,Saveley,Lyon,France,231,542608,2013-03-18,496.0
-1978,84,Mary,Saveley,Lyon,France,299,542676,2013-05-23,2812.0
-1981,84,Mary,Saveley,Lyon,France,559,542936,2013-12-31,572.1
-1984,84,Mary,Saveley,Lyon,France,567,542944,2014-01-05,2070.0
-1988,84,Mary,Saveley,Lyon,France,596,542973,2014-01-21,212.0
-1989,84,Mary,Saveley,Lyon,France,603,542980,2014-01-23,740.0
-1992,85,Paul,Henriot,Reims,France,1,542378,2012-07-04,440.0
-1995,85,Paul,Henriot,Reims,France,27,542404,2012-08-06,538.6
-1997,85,Paul,Henriot,Reims,France,48,542425,2012-09-02,121.6
-1998,85,Paul,Henriot,Reims,France,490,542867,2013-11-11,139.8
-2000,85,Paul,Henriot,Reims,France,492,542869,2013-11-12,240.0
-2002,86,Rita,Müller,Stuttgart,Germany,54,542431,2012-09-09,755.0
-2004,86,Rita,Müller,Stuttgart,Germany,65,542442,2012-09-23,1614.8
-2008,86,Rita,Müller,Stuttgart,Germany,101,542478,2012-11-07,396.0
-2010,86,Rita,Müller,Stuttgart,Germany,109,542486,2012-11-18,1106.4
-2013,86,Rita,Müller,Stuttgart,Germany,266,542643,2013-04-22,2427.5
-2016,86,Rita,Müller,Stuttgart,Germany,385,542762,2013-08-14,620.0
-2018,86,Rita,Müller,Stuttgart,Germany,393,542770,2013-08-21,945.0
-2020,86,Rita,Müller,Stuttgart,Germany,404,542781,2013-09-01,530.4
-2022,86,Rita,Müller,Stuttgart,Germany,421,542798,2013-09-15,694.75
-2025,86,Rita,Müller,Stuttgart,Germany,799,543176,2014-04-23,1564.0
-2028,87,Pirkko,Koskitalo,Oulu,Finland,19,542396,2012-07-26,364.8
-2029,87,Pirkko,Koskitalo,Oulu,Finland,23,542400,2012-08-01,1376.0
-2031,87,Pirkko,Koskitalo,Oulu,Finland,73,542450,2012-10-03,516.0
-2032,87,Pirkko,Koskitalo,Oulu,Finland,778,543155,2014-04-15,300.0
-2034,87,Pirkko,Koskitalo,Oulu,Finland,503,542880,2013-11-21,1871.25
-2037,87,Pirkko,Koskitalo,Oulu,Finland,534,542911,2013-12-17,1132.35
-2040,87,Pirkko,Koskitalo,Oulu,Finland,279,542656,2013-05-05,1344.0
-2043,87,Pirkko,Koskitalo,Oulu,Finland,306,542683,2013-05-30,1546.3
-2048,87,Pirkko,Koskitalo,Oulu,Finland,336,542713,2013-06-30,2413.9
-2051,87,Pirkko,Koskitalo,Oulu,Finland,389,542766,2013-08-19,629.5
-2053,87,Pirkko,Koskitalo,Oulu,Finland,86,542463,2012-10-18,954.0
-2056,87,Pirkko,Koskitalo,Oulu,Finland,165,542542,2013-01-13,372.0
-2057,87,Pirkko,Koskitalo,Oulu,Finland,169,542546,2013-01-16,720.0
-2060,87,Pirkko,Koskitalo,Oulu,Finland,190,542567,2013-02-05,393.0
-2061,87,Pirkko,Koskitalo,Oulu,Finland,208,542585,2013-02-24,2684.0
-2065,88,Paula,Parente,Resende,Brazil,9,542386,2012-07-15,517.8
-2067,88,Paula,Parente,Resende,Brazil,173,542550,2013-01-21,1897.6
-2071,88,Paula,Parente,Resende,Brazil,338,542715,2013-07-01,142.5
-2072,88,Paula,Parente,Resende,Brazil,397,542774,2013-08-25,1422.0
-2075,88,Paula,Parente,Resende,Brazil,556,542933,2013-12-30,1255.8
-2078,88,Paula,Parente,Resende,Brazil,562,542939,2014-01-01,140.0
-2079,88,Paula,Parente,Resende,Brazil,653,543030,2014-02-20,45.0
-2080,88,Paula,Parente,Resende,Brazil,658,543035,2014-02-24,360.0
-2081,88,Paula,Parente,Resende,Brazil,688,543065,2014-03-09,700.0
-2084,89,Karl,Jablonski,Seattle,USA,22,542399,2012-07-31,676.0
-2086,89,Karl,Jablonski,Seattle,USA,97,542474,2012-11-01,2856.0
-2088,89,Karl,Jablonski,Seattle,USA,222,542599,2013-03-10,1125.5
-2091,89,Karl,Jablonski,Seattle,USA,236,542613,2013-03-24,704.0
-2093,89,Karl,Jablonski,Seattle,USA,257,542634,2013-04-11,1388.5
-2097,89,Karl,Jablonski,Seattle,USA,349,542726,2013-07-11,1476.1
-2100,89,Karl,Jablonski,Seattle,USA,785,543162,2014-04-17,8902.5
-2103,89,Karl,Jablonski,Seattle,USA,819,543196,2014-05-01,928.75
-2106,89,Karl,Jablonski,Seattle,USA,446,542823,2013-10-06,2334.0
-2110,89,Karl,Jablonski,Seattle,USA,449,542826,2013-10-08,996.0
-2112,89,Karl,Jablonski,Seattle,USA,476,542853,2013-10-30,468.45
-2113,89,Karl,Jablonski,Seattle,USA,493,542870,2013-11-13,1770.0
-2117,89,Karl,Jablonski,Seattle,USA,614,542991,2014-01-30,3523.4
-2122,89,Karl,Jablonski,Seattle,USA,657,543034,2014-02-24,1924.25
-2124,90,Matti,Karttunen,Helsinki,Finland,758,543135,2014-04-07,586.0
-2126,90,Matti,Karttunen,Helsinki,Finland,448,542825,2013-10-07,642.0
-2129,90,Matti,Karttunen,Helsinki,Finland,626,543003,2014-02-06,336.8
-2131,90,Matti,Karttunen,Helsinki,Finland,632,543009,2014-02-10,611.3
-2134,90,Matti,Karttunen,Helsinki,Finland,663,543040,2014-02-26,452.9
-2137,90,Matti,Karttunen,Helsinki,Finland,368,542745,2013-07-30,120.0
-2138,90,Matti,Karttunen,Helsinki,Finland,426,542803,2013-09-18,412.35
-2141,91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,127,542504,2012-12-05,459.0
-2143,91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,364,542741,2013-07-25,808.0
-2146,91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,545,542922,2013-12-23,399.85
-2149,91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,623,543000,2014-02-04,160.0
-2151,91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,659,543036,2014-02-25,427.5
-2152,91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,751,543128,2014-04-03,686.0
-2156,91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,797,543174,2014-04-23,591.6
+customerid,firstname,lastname,city,country,orderid,ordernumber,orderdate,totalamount
+1,Maria,Anders,Berlin,Germany,396,542773,2013-08-25,1086.0
+1,Maria,Anders,Berlin,Germany,445,542822,2013-10-03,878.0
+1,Maria,Anders,Berlin,Germany,455,542832,2013-10-13,330.0
+1,Maria,Anders,Berlin,Germany,764,543141,2014-04-09,960.0
+1,Maria,Anders,Berlin,Germany,588,542965,2014-01-15,851.0
+1,Maria,Anders,Berlin,Germany,705,543082,2014-03-16,491.2
+2,Ana,Trujillo,México D.F.,Mexico,61,542438,2012-09-18,88.8
+2,Ana,Trujillo,México D.F.,Mexico,378,542755,2013-08-08,479.75
+2,Ana,Trujillo,México D.F.,Mexico,512,542889,2013-11-28,320.0
+2,Ana,Trujillo,México D.F.,Mexico,679,543056,2014-03-04,514.4
+3,Antonio,Moreno,México D.F.,Mexico,118,542495,2012-11-27,403.2
+3,Antonio,Moreno,México D.F.,Mexico,260,542637,2013-04-15,881.25
+3,Antonio,Moreno,México D.F.,Mexico,288,542665,2013-05-13,2156.5
+3,Antonio,Moreno,México D.F.,Mexico,326,542703,2013-06-19,2082.0
+3,Antonio,Moreno,México D.F.,Mexico,430,542807,2013-09-22,956.9
+3,Antonio,Moreno,México D.F.,Mexico,435,542812,2013-09-25,375.5
+3,Antonio,Moreno,México D.F.,Mexico,609,542986,2014-01-28,660.0
+4,Thomas,Hardy,London,UK,108,542485,2012-11-15,480.0
+4,Thomas,Hardy,London,UK,136,542513,2012-12-16,899.0
+4,Thomas,Hardy,London,UK,206,542583,2013-02-21,453.0
+4,Thomas,Hardy,London,UK,311,542688,2013-06-04,2142.9
+4,Thomas,Hardy,London,UK,460,542837,2013-10-16,1704.0
+4,Thomas,Hardy,London,UK,494,542871,2013-11-14,285.0
+4,Thomas,Hardy,London,UK,769,543146,2014-04-10,491.5
+4,Thomas,Hardy,London,UK,496,542873,2013-11-17,336.0
+4,Thomas,Hardy,London,UK,521,542898,2013-12-08,1477.0
+4,Thomas,Hardy,London,UK,546,542923,2013-12-24,191.1
+4,Thomas,Hardy,London,UK,617,542994,2014-02-02,282.0
+4,Thomas,Hardy,London,UK,673,543050,2014-03-03,390.0
+4,Thomas,Hardy,London,UK,706,543083,2014-03-16,4675.0
+5,Christina,Berglund,Lule?,Sweden,31,542408,2012-08-12,1488.8
+5,Christina,Berglund,Lule?,Sweden,33,542410,2012-08-14,613.2
+5,Christina,Berglund,Lule?,Sweden,137,542514,2012-12-16,2222.4
+5,Christina,Berglund,Lule?,Sweden,197,542574,2013-02-12,1031.7
+5,Christina,Berglund,Lule?,Sweden,198,542575,2013-02-13,174.9
+5,Christina,Berglund,Lule?,Sweden,277,542654,2013-05-01,3192.65
+5,Christina,Berglund,Lule?,Sweden,531,542908,2013-12-16,96.5
+5,Christina,Berglund,Lule?,Sweden,590,542967,2014-01-16,1254.0
+5,Christina,Berglund,Lule?,Sweden,610,542987,2014-01-28,2630.95
+5,Christina,Berglund,Lule?,Sweden,619,542996,2014-02-03,1461.6
+5,Christina,Berglund,Lule?,Sweden,628,543005,2014-02-06,729.5
+5,Christina,Berglund,Lule?,Sweden,677,543054,2014-03-04,2034.5
+5,Christina,Berglund,Lule?,Sweden,325,542702,2013-06-18,1565.65
+5,Christina,Berglund,Lule?,Sweden,379,542756,2013-08-11,1503.6
+5,Christina,Berglund,Lule?,Sweden,407,542784,2013-09-02,668.7
+5,Christina,Berglund,Lule?,Sweden,425,542802,2013-09-17,4210.5
+5,Christina,Berglund,Lule?,Sweden,442,542819,2013-10-01,630.0
+5,Christina,Berglund,Lule?,Sweden,486,542863,2013-11-07,1459.0
+6,Hanna,Moos,Mannheim,Germany,254,542631,2013-04-09,149.0
+6,Hanna,Moos,Mannheim,Germany,262,542639,2013-04-17,136.8
+6,Hanna,Moos,Mannheim,Germany,335,542712,2013-06-27,330.0
+6,Hanna,Moos,Mannheim,Germany,367,542744,2013-07-29,464.0
+6,Hanna,Moos,Mannheim,Germany,606,542983,2014-01-27,625.0
+6,Hanna,Moos,Mannheim,Germany,709,543086,2014-03-17,677.0
+6,Hanna,Moos,Mannheim,Germany,811,543188,2014-04-29,858.0
+7,Frédérique,Citeaux,Strasbourg,France,18,542395,2012-07-25,1176.0
+7,Frédérique,Citeaux,Strasbourg,France,50,542427,2012-09-04,1420.0
+7,Frédérique,Citeaux,Strasbourg,France,113,542490,2012-11-22,7390.2
+7,Frédérique,Citeaux,Strasbourg,France,381,542758,2013-08-12,450.0
+7,Frédérique,Citeaux,Strasbourg,France,432,542809,2013-09-23,660.0
+7,Frédérique,Citeaux,Strasbourg,France,579,542956,2014-01-12,730.0
+7,Frédérique,Citeaux,Strasbourg,France,312,542689,2013-06-05,547.8
+7,Frédérique,Citeaux,Strasbourg,France,319,542696,2013-06-12,2040.0
+7,Frédérique,Citeaux,Strasbourg,France,337,542714,2013-06-30,625.0
+7,Frédérique,Citeaux,Strasbourg,France,189,542566,2013-02-05,2210.8
+7,Frédérique,Citeaux,Strasbourg,France,202,542579,2013-02-18,1838.2
+8,Mart?n,Sommer,Madrid,Spain,79,542456,2012-10-10,982.0
+8,Mart?n,Sommer,Madrid,Spain,554,542931,2013-12-29,4035.8
+8,Mart?n,Sommer,Madrid,Spain,723,543100,2014-03-24,280.0
+9,Laurence,Lebihan,Marseille,France,84,542461,2012-10-16,88.5
+9,Laurence,Lebihan,Marseille,France,93,542470,2012-10-29,2564.4
+9,Laurence,Lebihan,Marseille,France,115,542492,2012-11-25,1549.6
+9,Laurence,Lebihan,Marseille,France,223,542600,2013-03-11,1820.8
+9,Laurence,Lebihan,Marseille,France,693,543070,2014-03-11,360.0
+9,Laurence,Lebihan,Marseille,France,829,543206,2014-05-06,1057.0
+9,Laurence,Lebihan,Marseille,France,485,542862,2013-11-06,360.0
+9,Laurence,Lebihan,Marseille,France,508,542885,2013-11-26,2598.0
+9,Laurence,Lebihan,Marseille,France,580,542957,2014-01-12,843.0
+9,Laurence,Lebihan,Marseille,France,624,543001,2014-02-05,2083.4
+9,Laurence,Lebihan,Marseille,France,629,543006,2014-02-09,917.0
+9,Laurence,Lebihan,Marseille,France,685,543062,2014-03-06,1925.5
+9,Laurence,Lebihan,Marseille,France,264,542641,2013-04-18,3000.0
+9,Laurence,Lebihan,Marseille,France,278,542655,2013-05-02,846.0
+9,Laurence,Lebihan,Marseille,France,416,542793,2013-09-10,2032.0
+9,Laurence,Lebihan,Marseille,France,468,542845,2013-10-23,1296.0
+9,Laurence,Lebihan,Marseille,France,483,542860,2013-11-05,509.75
+10,Elizabeth,Lincoln,Tsawassen,Canada,142,542519,2012-12-20,1832.8
+10,Elizabeth,Lincoln,Tsawassen,Canada,163,542540,2013-01-10,802.0
+10,Elizabeth,Lincoln,Tsawassen,Canada,164,542541,2013-01-10,1208.5
+10,Elizabeth,Lincoln,Tsawassen,Canada,184,542561,2013-01-30,2523.0
+10,Elizabeth,Lincoln,Tsawassen,Canada,245,542622,2013-04-01,896.0
+10,Elizabeth,Lincoln,Tsawassen,Canada,495,542872,2013-11-14,3118.0
+10,Elizabeth,Lincoln,Tsawassen,Canada,798,543175,2014-04-23,1309.5
+10,Elizabeth,Lincoln,Tsawassen,Canada,801,543178,2014-04-24,525.0
+10,Elizabeth,Lincoln,Tsawassen,Canada,671,543048,2014-03-02,1930.0
+10,Elizabeth,Lincoln,Tsawassen,Canada,697,543074,2014-03-12,1139.1
+10,Elizabeth,Lincoln,Tsawassen,Canada,702,543079,2014-03-13,4422.0
+10,Elizabeth,Lincoln,Tsawassen,Canada,728,543105,2014-03-25,717.5
+10,Elizabeth,Lincoln,Tsawassen,Canada,735,543112,2014-03-27,1014.0
+10,Elizabeth,Lincoln,Tsawassen,Canada,780,543157,2014-04-16,1170.3
+11,Victoria,Ashworth,London,UK,42,542419,2012-08-26,479.4
+11,Victoria,Ashworth,London,UK,224,542601,2013-03-11,1328.0
+11,Victoria,Ashworth,London,UK,237,542614,2013-03-24,386.2
+11,Victoria,Ashworth,London,UK,291,542668,2013-05-15,139.8
+11,Victoria,Ashworth,London,UK,292,542669,2013-05-16,355.5
+11,Victoria,Ashworth,London,UK,331,542708,2013-06-24,477.0
+11,Victoria,Ashworth,London,UK,352,542729,2013-07-15,493.0
+11,Victoria,Ashworth,London,UK,696,543073,2014-03-11,711.0
+11,Victoria,Ashworth,London,UK,700,543077,2014-03-13,220.0
+11,Victoria,Ashworth,London,UK,776,543153,2014-04-14,1500.0
+12,Patricio,Simpson,Buenos Aires,Argentina,274,542651,2013-04-29,225.5
+12,Patricio,Simpson,Buenos Aires,Argentina,535,542912,2013-12-17,12.5
+12,Patricio,Simpson,Buenos Aires,Argentina,572,542949,2014-01-07,477.0
+12,Patricio,Simpson,Buenos Aires,Argentina,634,543011,2014-02-11,150.0
+12,Patricio,Simpson,Buenos Aires,Argentina,690,543067,2014-03-10,644.8
+12,Patricio,Simpson,Buenos Aires,Argentina,807,543184,2014-04-28,305.0
+13,Francisco,Chang,México D.F.,Mexico,12,542389,2012-07-18,100.8
+14,Yang,Wang,Bern,Switzerland,7,542384,2012-07-11,625.2
+14,Yang,Wang,Bern,Switzerland,123,542500,2012-12-03,1174.0
+14,Yang,Wang,Bern,Switzerland,272,542649,2013-04-28,2356.0
+14,Yang,Wang,Bern,Switzerland,484,542861,2013-11-06,1990.0
+14,Yang,Wang,Bern,Switzerland,499,542876,2013-11-19,2311.7
+14,Yang,Wang,Bern,Switzerland,719,543096,2014-03-20,1255.6
+14,Yang,Wang,Bern,Switzerland,782,543159,2014-04-16,1286.8
+14,Yang,Wang,Bern,Switzerland,794,543171,2014-04-22,1887.0
+15,Pedro,Afonso,Sao Paulo,Brazil,43,542420,2012-08-27,2169.0
+15,Pedro,Afonso,Sao Paulo,Brazil,219,542596,2013-03-06,216.0
+15,Pedro,Afonso,Sao Paulo,Brazil,722,543099,2014-03-23,108.0
+15,Pedro,Afonso,Sao Paulo,Brazil,795,543172,2014-04-22,405.75
+15,Pedro,Afonso,Sao Paulo,Brazil,247,542624,2013-04-02,912.0
+16,Elizabeth,Brown,London,UK,188,542565,2013-02-04,631.6
+16,Elizabeth,Brown,London,UK,215,542592,2013-03-03,156.0
+16,Elizabeth,Brown,London,UK,601,542978,2014-01-23,931.5
+17,Sven,Ottlieb,Aachen,Germany,116,542493,2012-11-26,447.2
+17,Sven,Ottlieb,Aachen,Germany,144,542521,2012-12-23,86.4
+17,Sven,Ottlieb,Aachen,Germany,550,542927,2013-12-25,420.0
+17,Sven,Ottlieb,Aachen,Germany,578,542955,2014-01-09,1030.76
+17,Sven,Ottlieb,Aachen,Germany,789,543166,2014-04-20,1692.0
+17,Sven,Ottlieb,Aachen,Germany,820,543197,2014-05-04,86.85
+18,Janine,Labrune,Nantes,France,64,542441,2012-09-20,268.8
+18,Janine,Labrune,Nantes,France,362,542739,2013-07-24,424.0
+18,Janine,Labrune,Nantes,France,436,542813,2013-09-26,63.0
+18,Janine,Labrune,Nantes,France,643,543020,2014-02-16,860.1
+19,Ann,Devon,London,UK,117,542494,2012-11-26,950.0
+19,Ann,Devon,London,UK,153,542530,2013-01-01,3063.0
+19,Ann,Devon,London,UK,285,542662,2013-05-09,796.35
+19,Ann,Devon,London,UK,479,542856,2013-11-03,655.0
+19,Ann,Devon,London,UK,740,543117,2014-03-31,2772.0
+19,Ann,Devon,London,UK,777,543154,2014-04-15,1966.81
+19,Ann,Devon,London,UK,800,543177,2014-04-24,1090.5
+19,Ann,Devon,London,UK,809,543186,2014-04-28,3740.0
+20,Roland,Mendel,Graz,Austria,11,542388,2012-07-17,2018.6
+20,Roland,Mendel,Graz,Austria,16,542393,2012-07-23,2464.8
+20,Roland,Mendel,Graz,Austria,104,542481,2012-11-11,5677.6
+20,Roland,Mendel,Graz,Austria,121,542498,2012-11-29,1834.2
+20,Roland,Mendel,Graz,Austria,135,542512,2012-12-13,2900.0
+20,Roland,Mendel,Graz,Austria,143,542520,2012-12-23,2275.2
+20,Roland,Mendel,Graz,Austria,721,543098,2014-03-23,1408.0
+20,Roland,Mendel,Graz,Austria,732,543109,2014-03-26,4813.5
+20,Roland,Mendel,Graz,Austria,743,543120,2014-04-01,4931.0
+20,Roland,Mendel,Graz,Austria,761,543138,2014-04-08,4903.5
+20,Roland,Mendel,Graz,Austria,770,543147,2014-04-13,6750.0
+20,Roland,Mendel,Graz,Austria,825,543202,2014-05-05,5218.0
+20,Roland,Mendel,Graz,Austria,526,542903,2013-12-11,2216.25
+20,Roland,Mendel,Graz,Austria,529,542906,2013-12-15,6984.5
+20,Roland,Mendel,Graz,Austria,548,542925,2013-12-24,2499.25
+20,Roland,Mendel,Graz,Austria,589,542966,2014-01-16,4705.5
+20,Roland,Mendel,Graz,Austria,607,542984,2014-01-27,3490.0
+20,Roland,Mendel,Graz,Austria,648,543025,2014-02-18,6379.4
+20,Roland,Mendel,Graz,Austria,348,542725,2013-07-10,6300.0
+20,Roland,Mendel,Graz,Austria,386,542763,2013-08-15,6483.05
+20,Roland,Mendel,Graz,Austria,420,542797,2013-09-12,1921.0
+20,Roland,Mendel,Graz,Austria,451,542828,2013-10-09,3600.73
+20,Roland,Mendel,Graz,Austria,517,542894,2013-12-03,2540.0
+20,Roland,Mendel,Graz,Austria,524,542901,2013-12-10,344.0
+20,Roland,Mendel,Graz,Austria,155,542532,2013-01-02,2713.5
+20,Roland,Mendel,Graz,Austria,156,542533,2013-01-03,1005.9
+20,Roland,Mendel,Graz,Austria,183,542560,2013-01-30,5796.0
+20,Roland,Mendel,Graz,Austria,195,542572,2013-02-11,1792.0
+20,Roland,Mendel,Graz,Austria,267,542644,2013-04-22,8623.45
+20,Roland,Mendel,Graz,Austria,324,542701,2013-06-17,647.75
+21,Aria,Cruz,Sao Paulo,Brazil,100,542477,2012-11-06,928.0
+21,Aria,Cruz,Sao Paulo,Brazil,139,542516,2012-12-18,166.0
+21,Aria,Cruz,Sao Paulo,Brazil,167,542544,2013-01-14,231.4
+21,Aria,Cruz,Sao Paulo,Brazil,265,542642,2013-04-21,618.0
+21,Aria,Cruz,Sao Paulo,Brazil,334,542711,2013-06-26,387.5
+21,Aria,Cruz,Sao Paulo,Brazil,403,542780,2013-08-29,1820.2
+21,Aria,Cruz,Sao Paulo,Brazil,478,542855,2013-10-31,287.8
+23,Martine,Rancé,Lille,France,161,542538,2013-01-08,1622.4
+23,Martine,Rancé,Lille,France,233,542610,2013-03-20,756.0
+23,Martine,Rancé,Lille,France,387,542764,2013-08-15,4985.5
+23,Martine,Rancé,Lille,France,516,542893,2013-12-03,616.0
+23,Martine,Rancé,Lille,France,542,542919,2013-12-22,3687.0
+24,Maria,Larsson,Br?cke,Sweden,17,542394,2012-07-24,724.5
+24,Maria,Larsson,Br?cke,Sweden,80,542457,2012-10-11,2262.5
+24,Maria,Larsson,Br?cke,Sweden,131,542508,2012-12-10,103.2
+24,Maria,Larsson,Br?cke,Sweden,187,542564,2013-02-03,360.0
+24,Maria,Larsson,Br?cke,Sweden,213,542590,2013-02-28,234.8
+24,Maria,Larsson,Br?cke,Sweden,286,542663,2013-05-12,2295.2
+24,Maria,Larsson,Br?cke,Sweden,803,543180,2014-04-27,900.0
+24,Maria,Larsson,Br?cke,Sweden,655,543032,2014-02-23,1015.8
+24,Maria,Larsson,Br?cke,Sweden,708,543085,2014-03-17,93.0
+24,Maria,Larsson,Br?cke,Sweden,730,543107,2014-03-26,2233.0
+24,Maria,Larsson,Br?cke,Sweden,733,543110,2014-03-27,310.0
+24,Maria,Larsson,Br?cke,Sweden,746,543123,2014-04-01,6527.25
+24,Maria,Larsson,Br?cke,Sweden,754,543131,2014-04-06,2769.0
+24,Maria,Larsson,Br?cke,Sweden,314,542691,2013-06-06,2844.5
+24,Maria,Larsson,Br?cke,Sweden,456,542833,2013-10-14,2545.0
+24,Maria,Larsson,Br?cke,Sweden,515,542892,2013-12-02,4337.0
+24,Maria,Larsson,Br?cke,Sweden,527,542904,2013-12-11,875.0
+24,Maria,Larsson,Br?cke,Sweden,577,542954,2014-01-09,250.8
+24,Maria,Larsson,Br?cke,Sweden,633,543010,2014-02-10,1875.0
+25,Peter,Franken,München,Germany,20,542397,2012-07-29,4031.0
+25,Peter,Franken,München,Germany,90,542467,2012-10-24,2467.0
+25,Peter,Franken,München,Germany,95,542472,2012-10-30,2300.8
+25,Peter,Franken,München,Germany,149,542526,2012-12-27,1903.8
+25,Peter,Franken,München,Germany,241,542618,2013-03-27,1560.0
+25,Peter,Franken,München,Germany,313,542690,2013-06-06,1257.3
+25,Peter,Franken,München,Germany,612,542989,2014-01-29,1438.25
+25,Peter,Franken,München,Germany,682,543059,2014-03-05,1174.75
+25,Peter,Franken,München,Germany,765,543142,2014-04-09,2974.0
+25,Peter,Franken,München,Germany,376,542753,2013-08-07,1429.75
+25,Peter,Franken,München,Germany,406,542783,2013-09-02,1203.5
+25,Peter,Franken,München,Germany,423,542800,2013-09-16,2301.75
+25,Peter,Franken,München,Germany,428,542805,2013-09-19,1423.0
+25,Peter,Franken,München,Germany,470,542847,2013-10-24,1331.75
+25,Peter,Franken,München,Germany,544,542921,2013-12-23,1926.06
+26,Carine,Schmitt,Nantes,France,424,542801,2013-09-17,920.1
+26,Carine,Schmitt,Nantes,France,613,542990,2014-01-29,519.0
+26,Carine,Schmitt,Nantes,France,724,543101,2014-03-24,1733.06
+27,Paolo,Accorti,Torino,Italy,175,542552,2013-01-22,49.8
+27,Paolo,Accorti,Torino,Italy,813,543190,2014-04-30,266.0
+27,Paolo,Accorti,Torino,Italy,463,542840,2013-10-20,93.5
+27,Paolo,Accorti,Torino,Italy,506,542883,2013-11-25,88.0
+27,Paolo,Accorti,Torino,Italy,560,542937,2013-12-31,18.4
+27,Paolo,Accorti,Torino,Italy,779,543156,2014-04-15,1030.0
+28,Lino,Rodriguez,Lisboa,Portugal,81,542458,2012-10-14,1168.0
+28,Lino,Rodriguez,Lisboa,Portugal,105,542482,2012-11-12,154.0
+28,Lino,Rodriguez,Lisboa,Portugal,217,542594,2013-03-04,1848.0
+28,Lino,Rodriguez,Lisboa,Portugal,244,542621,2013-03-31,305.3
+28,Lino,Rodriguez,Lisboa,Portugal,304,542681,2013-05-28,1836.0
+28,Lino,Rodriguez,Lisboa,Portugal,357,542734,2013-07-18,256.5
+28,Lino,Rodriguez,Lisboa,Portugal,417,542794,2013-09-10,1515.75
+28,Lino,Rodriguez,Lisboa,Portugal,716,543093,2014-03-19,68.0
+29,Eduardo,Saavedra,Barcelona,Spain,119,542496,2012-11-28,136.0
+29,Eduardo,Saavedra,Barcelona,Spain,179,542556,2013-01-27,338.2
+29,Eduardo,Saavedra,Barcelona,Spain,321,542698,2013-06-13,155.0
+29,Eduardo,Saavedra,Barcelona,Spain,640,543017,2014-02-13,70.0
+29,Eduardo,Saavedra,Barcelona,Spain,681,543058,2014-03-05,137.5
+30,José,Pedro Freyre,Sevilla,Spain,56,542433,2012-09-11,1242.0
+30,José,Pedro Freyre,Sevilla,Spain,303,542680,2013-05-28,749.0
+30,José,Pedro Freyre,Sevilla,Spain,382,542759,2013-08-12,2775.05
+30,José,Pedro Freyre,Sevilla,Spain,762,543139,2014-04-08,702.0
+30,José,Pedro Freyre,Sevilla,Spain,790,543167,2014-04-21,60.0
+30,José,Pedro Freyre,Sevilla,Spain,625,543002,2014-02-05,2166.8
+30,José,Pedro Freyre,Sevilla,Spain,627,543004,2014-02-06,310.0
+30,José,Pedro Freyre,Sevilla,Spain,641,543018,2014-02-16,605.0
+30,José,Pedro Freyre,Sevilla,Spain,664,543041,2014-02-26,858.0
+30,José,Pedro Freyre,Sevilla,Spain,701,543078,2014-03-13,2362.25
+31,André,Fonseca,Campinas,Brazil,176,542553,2013-01-23,1020.0
+31,André,Fonseca,Campinas,Brazil,405,542782,2013-09-01,331.78
+31,André,Fonseca,Campinas,Brazil,438,542815,2013-09-29,801.1
+31,André,Fonseca,Campinas,Brazil,462,542839,2013-10-17,3424.0
+31,André,Fonseca,Campinas,Brazil,487,542864,2013-11-07,1498.35
+31,André,Fonseca,Campinas,Brazil,530,542907,2013-12-15,280.0
+31,André,Fonseca,Campinas,Brazil,543,542920,2013-12-22,850.0
+31,André,Fonseca,Campinas,Brazil,712,543089,2014-03-18,155.0
+31,André,Fonseca,Campinas,Brazil,802,543179,2014-04-24,342.0
+32,Howard,Snyder,Eugene,USA,281,542658,2013-05-06,396.2
+32,Howard,Snyder,Eugene,USA,342,542719,2013-07-04,72.0
+32,Howard,Snyder,Eugene,USA,369,542746,2013-07-31,5032.0
+32,Howard,Snyder,Eugene,USA,370,542747,2013-07-31,1650.0
+32,Howard,Snyder,Eugene,USA,409,542786,2013-09-04,671.35
+32,Howard,Snyder,Eugene,USA,434,542811,2013-09-25,1327.0
+32,Howard,Snyder,Eugene,USA,569,542946,2014-01-06,8891.0
+32,Howard,Snyder,Eugene,USA,689,543066,2014-03-09,570.0
+32,Howard,Snyder,Eugene,USA,759,543136,2014-04-07,391.58
+32,Howard,Snyder,Eugene,USA,793,543170,2014-04-22,200.0
+32,Howard,Snyder,Eugene,USA,814,543191,2014-04-30,510.0
+33,Manuel,Pereira,Caracas,Venezuela,21,542398,2012-07-30,1101.2
+33,Manuel,Pereira,Caracas,Venezuela,538,542915,2013-12-18,387.5
+34,Mario,Pontes,Rio de Janeiro,Brazil,3,542380,2012-07-08,1813.0
+34,Mario,Pontes,Rio de Janeiro,Brazil,6,542383,2012-07-10,1444.8
+34,Mario,Pontes,Rio de Janeiro,Brazil,294,542671,2013-05-19,2162.8
+34,Mario,Pontes,Rio de Janeiro,Brazil,398,542775,2013-08-26,1535.0
+34,Mario,Pontes,Rio de Janeiro,Brazil,443,542820,2013-10-02,1150.0
+34,Mario,Pontes,Rio de Janeiro,Brazil,523,542900,2013-12-09,315.0
+34,Mario,Pontes,Rio de Janeiro,Brazil,775,543152,2014-04-14,1402.0
+34,Mario,Pontes,Rio de Janeiro,Brazil,805,543182,2014-04-27,1665.0
+34,Mario,Pontes,Rio de Janeiro,Brazil,536,542913,2013-12-18,1442.5
+34,Mario,Pontes,Rio de Janeiro,Brazil,639,543016,2014-02-13,3127.5
+34,Mario,Pontes,Rio de Janeiro,Brazil,656,543033,2014-02-24,932.05
+34,Mario,Pontes,Rio de Janeiro,Brazil,675,543052,2014-03-03,742.5
+34,Mario,Pontes,Rio de Janeiro,Brazil,678,543055,2014-03-04,559.0
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,10,542387,2012-07-16,1119.9
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,148,542525,2012-12-26,2333.2
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,229,542606,2013-03-17,182.4
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,239,542616,2013-03-26,1272.0
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,243,542620,2013-03-31,3163.2
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,251,542628,2013-04-07,575.0
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,616,542993,2014-02-02,519.0
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,654,543031,2014-02-23,934.5
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,710,543087,2014-03-18,1762.7
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,713,543090,2014-03-19,276.6
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,729,543106,2014-03-25,912.0
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,808,543185,2014-04-28,1727.5
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,305,542682,2013-05-29,880.5
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,354,542731,2013-07-16,2285.0
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,366,542743,2013-07-29,358.0
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,394,542771,2013-08-22,2054.0
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,458,542835,2013-10-15,378.0
+35,Carlos,Hern?ndez,San Crist?bal,Venezuela,549,542926,2013-12-25,2878.08
+36,Yoshi,Latimer,Elgin,USA,128,542505,2012-12-06,338.0
+36,Yoshi,Latimer,Elgin,USA,147,542524,2012-12-25,442.0
+36,Yoshi,Latimer,Elgin,USA,168,542545,2013-01-15,102.4
+36,Yoshi,Latimer,Elgin,USA,353,542730,2013-07-16,479.8
+36,Yoshi,Latimer,Elgin,USA,413,542790,2013-09-08,1701.0
+37,Patricia,McKenna,Cork,Ireland,51,542428,2012-09-05,3127.0
+37,Patricia,McKenna,Cork,Ireland,62,542439,2012-09-19,1762.0
+37,Patricia,McKenna,Cork,Ireland,88,542465,2012-10-22,2545.2
+37,Patricia,McKenna,Cork,Ireland,126,542503,2012-12-05,1708.0
+37,Patricia,McKenna,Cork,Ireland,133,542510,2012-12-12,1419.8
+37,Patricia,McKenna,Cork,Ireland,182,542559,2013-01-29,1748.5
+37,Patricia,McKenna,Cork,Ireland,816,543193,2014-04-30,1445.5
+37,Patricia,McKenna,Cork,Ireland,454,542831,2013-10-13,3370.0
+37,Patricia,McKenna,Cork,Ireland,465,542842,2013-10-21,1238.4
+37,Patricia,McKenna,Cork,Ireland,489,542866,2013-11-11,997.0
+37,Patricia,McKenna,Cork,Ireland,650,543027,2014-02-19,10835.24
+37,Patricia,McKenna,Cork,Ireland,665,543042,2014-02-26,8267.4
+37,Patricia,McKenna,Cork,Ireland,738,543115,2014-03-30,2248.2
+37,Patricia,McKenna,Cork,Ireland,256,542633,2013-04-11,2048.5
+37,Patricia,McKenna,Cork,Ireland,269,542646,2013-04-24,2614.5
+37,Patricia,McKenna,Cork,Ireland,320,542697,2013-06-12,3109.0
+37,Patricia,McKenna,Cork,Ireland,399,542776,2013-08-27,1928.0
+37,Patricia,McKenna,Cork,Ireland,414,542791,2013-09-09,703.25
+37,Patricia,McKenna,Cork,Ireland,440,542817,2013-09-30,6201.9
+38,Helen,Bennett,Cowes,UK,68,542445,2012-09-26,516.8
+38,Helen,Bennett,Cowes,UK,71,542448,2012-10-01,240.4
+38,Helen,Bennett,Cowes,UK,74,542451,2012-10-03,144.0
+38,Helen,Bennett,Cowes,UK,502,542879,2013-11-20,1080.0
+38,Helen,Bennett,Cowes,UK,551,542928,2013-12-26,446.6
+38,Helen,Bennett,Cowes,UK,582,542959,2014-01-13,1764.0
+38,Helen,Bennett,Cowes,UK,686,543063,2014-03-06,920.6
+38,Helen,Bennett,Cowes,UK,374,542751,2013-08-05,758.5
+38,Helen,Bennett,Cowes,UK,427,542804,2013-09-18,45.0
+38,Helen,Bennett,Cowes,UK,226,542603,2013-03-13,230.4
+39,Philip,Cramer,Brandenburg,Germany,76,542453,2012-10-07,164.4
+39,Philip,Cramer,Brandenburg,Germany,78,542455,2012-10-09,1497.0
+39,Philip,Cramer,Brandenburg,Germany,209,542586,2013-02-25,656.0
+39,Philip,Cramer,Brandenburg,Germany,210,542587,2013-02-25,1584.0
+39,Philip,Cramer,Brandenburg,Germany,221,542598,2013-03-07,717.6
+39,Philip,Cramer,Brandenburg,Germany,570,542947,2014-01-06,11490.7
+39,Philip,Cramer,Brandenburg,Germany,602,542979,2014-01-23,1052.14
+39,Philip,Cramer,Brandenburg,Germany,646,543023,2014-02-18,5502.11
+39,Philip,Cramer,Brandenburg,Germany,781,543158,2014-04-16,2160.0
+39,Philip,Cramer,Brandenburg,Germany,259,542636,2013-04-15,462.0
+39,Philip,Cramer,Brandenburg,Germany,295,542672,2013-05-20,493.8
+39,Philip,Cramer,Brandenburg,Germany,383,542760,2013-08-13,918.0
+39,Philip,Cramer,Brandenburg,Germany,471,542848,2013-10-27,3463.0
+39,Philip,Cramer,Brandenburg,Germany,552,542929,2013-12-26,1585.0
+40,Daniel,Tonini,Versailles,France,680,543057,2014-03-05,800.0
+40,Daniel,Tonini,Versailles,France,725,543102,2014-03-24,251.5
+40,Daniel,Tonini,Versailles,France,726,543103,2014-03-24,291.55
+40,Daniel,Tonini,Versailles,France,611,542988,2014-01-29,649.0
+41,Annette,Roulet,Toulouse,France,103,542480,2012-11-11,713.4
+41,Annette,Roulet,Toulouse,France,111,542488,2012-11-20,452.0
+41,Annette,Roulet,Toulouse,France,124,542501,2012-12-03,91.2
+41,Annette,Roulet,Toulouse,France,166,542543,2013-01-14,2123.2
+41,Annette,Roulet,Toulouse,France,178,542555,2013-01-24,480.0
+41,Annette,Roulet,Toulouse,France,207,542584,2013-02-21,414.0
+41,Annette,Roulet,Toulouse,France,676,543053,2014-03-03,936.0
+41,Annette,Roulet,Toulouse,France,804,543181,2014-04-27,45.0
+41,Annette,Roulet,Toulouse,France,540,542917,2013-12-19,2760.8
+41,Annette,Roulet,Toulouse,France,585,542962,2014-01-14,568.95
+41,Annette,Roulet,Toulouse,France,246,542623,2013-04-02,676.0
+41,Annette,Roulet,Toulouse,France,253,542630,2013-04-09,550.8
+41,Annette,Roulet,Toulouse,France,363,542740,2013-07-25,399.0
+41,Annette,Roulet,Toulouse,France,384,542761,2013-08-14,62.0
+42,Yoshi,Tannamuri,Vancouver,Canada,248,542625,2013-04-03,278.0
+42,Yoshi,Tannamuri,Vancouver,Canada,373,542750,2013-08-05,57.5
+42,Yoshi,Tannamuri,Vancouver,Canada,563,542940,2014-01-01,187.0
+43,John,Steel,Walla Walla,USA,235,542612,2013-03-21,147.0
+43,John,Steel,Walla Walla,USA,298,542675,2013-05-22,210.0
+44,Renate,Messner,Frankfurt a.M.,Germany,32,542409,2012-08-13,468.0
+44,Renate,Messner,Frankfurt a.M.,Germany,37,542414,2012-08-19,1452.0
+44,Renate,Messner,Frankfurt a.M.,Germany,96,542473,2012-10-31,1586.0
+44,Renate,Messner,Frankfurt a.M.,Germany,687,543064,2014-03-09,500.0
+44,Renate,Messner,Frankfurt a.M.,Germany,823,543200,2014-05-05,1873.5
+44,Renate,Messner,Frankfurt a.M.,Germany,525,542902,2013-12-10,3603.22
+44,Renate,Messner,Frankfurt a.M.,Germany,615,542992,2014-01-30,581.0
+44,Renate,Messner,Frankfurt a.M.,Germany,644,543021,2014-02-17,388.35
+44,Renate,Messner,Frankfurt a.M.,Germany,310,542687,2013-06-03,1152.5
+44,Renate,Messner,Frankfurt a.M.,Germany,345,542722,2013-07-08,543.65
+44,Renate,Messner,Frankfurt a.M.,Germany,346,542723,2013-07-09,2493.0
+44,Renate,Messner,Frankfurt a.M.,Germany,250,542627,2013-04-04,1380.6
+44,Renate,Messner,Frankfurt a.M.,Germany,275,542652,2013-04-30,2657.8
+44,Renate,Messner,Frankfurt a.M.,Germany,287,542664,2013-05-12,517.4
+44,Renate,Messner,Frankfurt a.M.,Germany,289,542666,2013-05-14,2085.0
+45,Jaime,Yorres,San Francisco,USA,332,542709,2013-06-25,317.75
+45,Jaime,Yorres,San Francisco,USA,472,542849,2013-10-27,1125.67
+45,Jaime,Yorres,San Francisco,USA,488,542865,2013-11-10,596.0
+45,Jaime,Yorres,San Francisco,USA,637,543014,2014-02-12,1450.6
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,36,542413,2012-08-16,1414.8
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,49,542426,2012-09-03,1050.6
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,83,542460,2012-10-16,1940.0
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,110,542487,2012-11-19,1360.0
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,134,542511,2012-12-12,112.0
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,214,542591,2013-02-28,2051.6
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,818,543195,2014-05-01,252.56
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,824,543201,2014-05-05,510.0
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,252,542629,2013-04-08,1412.0
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,296,542673,2013-05-21,1770.0
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,533,542910,2013-12-16,720.0
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,576,542953,2014-01-09,3107.5
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,652,543029,2014-02-20,144.0
+46,Carlos,Gonz?lez,Barquisimeto,Venezuela,750,543127,2014-04-03,1980.0
+47,Felipe,Izquierdo,I. de Margarita,Venezuela,158,542535,2013-01-06,400.0
+47,Felipe,Izquierdo,I. de Margarita,Venezuela,238,542615,2013-03-25,1760.0
+47,Felipe,Izquierdo,I. de Margarita,Venezuela,391,542768,2013-08-20,2720.05
+47,Felipe,Izquierdo,I. de Margarita,Venezuela,450,542827,2013-10-08,1073.9
+47,Felipe,Izquierdo,I. de Margarita,Venezuela,482,542859,2013-11-04,1850.0
+47,Felipe,Izquierdo,I. de Margarita,Venezuela,564,542941,2014-01-02,852.0
+47,Felipe,Izquierdo,I. de Margarita,Venezuela,591,542968,2014-01-19,2584.5
+47,Felipe,Izquierdo,I. de Margarita,Venezuela,593,542970,2014-01-19,264.0
+47,Felipe,Izquierdo,I. de Margarita,Venezuela,672,543049,2014-03-02,1122.8
+47,Felipe,Izquierdo,I. de Margarita,Venezuela,707,543084,2014-03-17,1902.1
+47,Felipe,Izquierdo,I. de Margarita,Venezuela,767,543144,2014-04-10,270.2
+47,Felipe,Izquierdo,I. de Margarita,Venezuela,792,543169,2014-04-21,3090.0
+48,Fran,Wilson,Portland,USA,60,542437,2012-09-17,424.0
+48,Fran,Wilson,Portland,USA,70,542447,2012-09-30,288.0
+48,Fran,Wilson,Portland,USA,297,542674,2013-05-21,417.2
+48,Fran,Wilson,Portland,USA,415,542792,2013-09-09,125.0
+48,Fran,Wilson,Portland,USA,418,542795,2013-09-11,1295.0
+48,Fran,Wilson,Portland,USA,620,542997,2014-02-03,98.4
+48,Fran,Wilson,Portland,USA,636,543013,2014-02-12,36.0
+48,Fran,Wilson,Portland,USA,771,543148,2014-04-13,1575.0
+49,Giovanni,Rovelli,Bergamo,Italy,28,542405,2012-08-07,307.2
+49,Giovanni,Rovelli,Bergamo,Italy,53,542430,2012-09-09,608.0
+49,Giovanni,Rovelli,Bergamo,Italy,157,542534,2013-01-03,1675.0
+49,Giovanni,Rovelli,Bergamo,Italy,220,542597,2013-03-06,235.2
+49,Giovanni,Rovelli,Bergamo,Italy,388,542765,2013-08-18,1380.25
+49,Giovanni,Rovelli,Bergamo,Italy,507,542884,2013-11-25,55.2
+49,Giovanni,Rovelli,Bergamo,Italy,537,542914,2013-12-18,1650.0
+49,Giovanni,Rovelli,Bergamo,Italy,571,542948,2014-01-07,833.0
+49,Giovanni,Rovelli,Bergamo,Italy,692,543069,2014-03-10,750.0
+49,Giovanni,Rovelli,Bergamo,Italy,703,543080,2014-03-16,110.0
+50,Catherine,Dewey,Bruxelles,Belgium,282,542659,2013-05-07,946.0
+50,Catherine,Dewey,Bruxelles,Belgium,402,542779,2013-08-28,1434.0
+50,Catherine,Dewey,Bruxelles,Belgium,513,542890,2013-12-01,3304.0
+50,Catherine,Dewey,Bruxelles,Belgium,645,543022,2014-02-17,2200.0
+50,Catherine,Dewey,Bruxelles,Belgium,649,543026,2014-02-19,750.5
+50,Catherine,Dewey,Bruxelles,Belgium,731,543108,2014-03-26,1500.7
+50,Catherine,Dewey,Bruxelles,Belgium,757,543134,2014-04-07,295.38
+51,Jean,Fresnière,Montréal,Canada,85,542462,2012-10-17,2233.6
+51,Jean,Fresnière,Montréal,Canada,92,542469,2012-10-28,3463.2
+51,Jean,Fresnière,Montréal,Canada,129,542506,2012-12-09,420.0
+51,Jean,Fresnière,Montréal,Canada,177,542554,2013-01-23,11493.2
+51,Jean,Fresnière,Montréal,Canada,192,542569,2013-02-07,1078.0
+51,Jean,Fresnière,Montréal,Canada,258,542635,2013-04-14,147.9
+51,Jean,Fresnière,Montréal,Canada,477,542854,2013-10-30,638.5
+51,Jean,Fresnière,Montréal,Canada,318,542695,2013-06-11,711.0
+51,Jean,Fresnière,Montréal,Canada,323,542700,2013-06-17,2595.0
+51,Jean,Fresnière,Montréal,Canada,343,542720,2013-07-07,1140.0
+51,Jean,Fresnière,Montréal,Canada,358,542735,2013-07-21,4326.0
+51,Jean,Fresnière,Montréal,Canada,371,542748,2013-08-01,2697.5
+51,Jean,Fresnière,Montréal,Canada,372,542749,2013-08-04,1260.0
+52,Alexander,Feuer,Leipzig,Germany,30,542407,2012-08-09,1200.8
+52,Alexander,Feuer,Leipzig,Germany,328,542705,2013-06-20,2147.4
+52,Alexander,Feuer,Leipzig,Germany,452,542829,2013-10-09,114.0
+52,Alexander,Feuer,Leipzig,Germany,532,542909,2013-12-16,1335.0
+52,Alexander,Feuer,Leipzig,Germany,698,543075,2014-03-12,245.0
+53,Simon,Crowther,London,UK,270,542647,2013-04-24,352.0
+53,Simon,Crowther,London,UK,505,542882,2013-11-24,252.0
+53,Simon,Crowther,London,UK,810,543187,2014-04-29,45.0
+54,Yvonne,Moncada,Buenos Aires,Argentina,162,542539,2013-01-09,319.2
+54,Yvonne,Moncada,Buenos Aires,Argentina,284,542661,2013-05-08,110.0
+54,Yvonne,Moncada,Buenos Aires,Argentina,651,543028,2014-02-20,30.0
+54,Yvonne,Moncada,Buenos Aires,Argentina,711,543088,2014-03-18,781.0
+54,Yvonne,Moncada,Buenos Aires,Argentina,739,543116,2014-03-30,2220.0
+55,Rene,Phillips,Anchorage,USA,58,542435,2012-09-13,4157.0
+55,Rene,Phillips,Anchorage,USA,91,542468,2012-10-25,934.5
+55,Rene,Phillips,Anchorage,USA,194,542571,2013-02-10,1755.0
+55,Rene,Phillips,Anchorage,USA,347,542724,2013-07-09,565.5
+55,Rene,Phillips,Anchorage,USA,433,542810,2013-09-24,1682.5
+55,Rene,Phillips,Anchorage,USA,459,542836,2013-10-16,1893.0
+55,Rene,Phillips,Anchorage,USA,561,542938,2014-01-01,1660.0
+55,Rene,Phillips,Anchorage,USA,608,542985,2014-01-27,2275.25
+55,Rene,Phillips,Anchorage,USA,718,543095,2014-03-20,848.0
+55,Rene,Phillips,Anchorage,USA,787,543164,2014-04-20,554.4
+56,Henriette,Pfalzheim,K?ln,Germany,13,542390,2012-07-19,1746.2
+56,Henriette,Pfalzheim,K?ln,Germany,160,542537,2013-01-07,1194.0
+56,Henriette,Pfalzheim,K?ln,Germany,261,542638,2013-04-16,240.0
+56,Henriette,Pfalzheim,K?ln,Germany,307,542684,2013-05-30,1819.5
+56,Henriette,Pfalzheim,K?ln,Germany,333,542710,2013-06-26,1067.1
+56,Henriette,Pfalzheim,K?ln,Germany,437,542814,2013-09-26,1768.0
+56,Henriette,Pfalzheim,K?ln,Germany,519,542896,2013-12-05,2310.0
+56,Henriette,Pfalzheim,K?ln,Germany,586,542963,2014-01-15,1007.7
+56,Henriette,Pfalzheim,K?ln,Germany,752,543129,2014-04-03,1261.0
+56,Henriette,Pfalzheim,K?ln,Germany,773,543150,2014-04-14,744.0
+58,Guillermo,Fern?ndez,México D.F.,Mexico,75,542452,2012-10-04,112.0
+58,Guillermo,Fern?ndez,México D.F.,Mexico,107,542484,2012-11-14,568.8
+58,Guillermo,Fern?ndez,México D.F.,Mexico,227,542604,2013-03-13,1249.1
+58,Guillermo,Fern?ndez,México D.F.,Mexico,255,542632,2013-04-10,816.3
+58,Guillermo,Fern?ndez,México D.F.,Mexico,748,543125,2014-04-02,1196.0
+58,Guillermo,Fern?ndez,México D.F.,Mexico,826,543203,2014-05-05,300.0
+59,Georg,Pipps,Salzburg,Austria,106,542483,2012-11-13,10741.6
+59,Georg,Pipps,Salzburg,Austria,145,542522,2012-12-24,1440.0
+59,Georg,Pipps,Salzburg,Austria,180,542557,2013-01-27,651.0
+59,Georg,Pipps,Salzburg,Austria,242,542619,2013-03-28,502.2
+59,Georg,Pipps,Salzburg,Austria,283,542660,2013-05-08,4180.0
+59,Georg,Pipps,Salzburg,Austria,350,542727,2013-07-11,800.1
+59,Georg,Pipps,Salzburg,Austria,439,542816,2013-09-30,1638.45
+59,Georg,Pipps,Salzburg,Austria,500,542877,2013-11-19,1912.85
+59,Georg,Pipps,Salzburg,Austria,597,542974,2014-01-21,735.0
+59,Georg,Pipps,Salzburg,Austria,806,543183,2014-04-27,3658.75
+60,Isabel,de Castro,Lisboa,Portugal,89,542466,2012-10-23,316.8
+60,Isabel,de Castro,Lisboa,Portugal,150,542527,2012-12-27,843.2
+60,Isabel,de Castro,Lisboa,Portugal,186,542563,2013-02-03,851.2
+60,Isabel,de Castro,Lisboa,Portugal,230,542607,2013-03-17,672.0
+60,Isabel,de Castro,Lisboa,Portugal,760,543137,2014-04-08,2633.9
+61,Bernardo,Batista,Rio de Janeiro,Brazil,14,542391,2012-07-19,448.0
+61,Bernardo,Batista,Rio de Janeiro,Brazil,44,542421,2012-08-27,552.8
+61,Bernardo,Batista,Rio de Janeiro,Brazil,132,542509,2012-12-11,959.2
+61,Bernardo,Batista,Rio de Janeiro,Brazil,174,542551,2013-01-21,1273.2
+61,Bernardo,Batista,Rio de Janeiro,Brazil,340,542717,2013-07-02,807.38
+61,Bernardo,Batista,Rio de Janeiro,Brazil,400,542777,2013-08-27,636.0
+61,Bernardo,Batista,Rio de Janeiro,Brazil,473,542850,2013-10-28,550.0
+61,Bernardo,Batista,Rio de Janeiro,Brazil,547,542924,2013-12-24,393.45
+61,Bernardo,Batista,Rio de Janeiro,Brazil,742,543119,2014-03-31,1353.6
+62,L?cia,Carvalho,Sao Paulo,Brazil,125,542502,2012-12-04,12281.2
+62,L?cia,Carvalho,Sao Paulo,Brazil,159,542536,2013-01-07,2018.2
+62,L?cia,Carvalho,Sao Paulo,Brazil,240,542617,2013-03-26,925.1
+62,L?cia,Carvalho,Sao Paulo,Brazil,390,542767,2013-08-19,2896.25
+62,L?cia,Carvalho,Sao Paulo,Brazil,412,542789,2013-09-05,1291.6
+62,L?cia,Carvalho,Sao Paulo,Brazil,714,543091,2014-03-19,1122.0
+62,L?cia,Carvalho,Sao Paulo,Brazil,821,543198,2014-05-04,2384.8
+62,L?cia,Carvalho,Sao Paulo,Brazil,457,542834,2013-10-14,595.5
+62,L?cia,Carvalho,Sao Paulo,Brazil,481,542858,2013-11-04,1296.75
+62,L?cia,Carvalho,Sao Paulo,Brazil,539,542916,2013-12-19,1913.85
+62,L?cia,Carvalho,Sao Paulo,Brazil,621,542998,2014-02-04,2004.6
+62,L?cia,Carvalho,Sao Paulo,Brazil,666,543043,2014-02-26,958.75
+62,L?cia,Carvalho,Sao Paulo,Brazil,667,543044,2014-02-27,537.5
+63,Horst,Kloss,Cunewalde,Germany,26,542403,2012-08-05,2142.4
+63,Horst,Kloss,Cunewalde,Germany,38,542415,2012-08-20,2179.2
+63,Horst,Kloss,Cunewalde,Germany,39,542416,2012-08-21,3016.0
+63,Horst,Kloss,Cunewalde,Germany,66,542443,2012-09-24,182.4
+63,Horst,Kloss,Cunewalde,Germany,98,542475,2012-11-04,2924.8
+63,Horst,Kloss,Cunewalde,Germany,114,542491,2012-11-22,2273.6
+63,Horst,Kloss,Cunewalde,Germany,715,543092,2014-03-19,3584.0
+63,Horst,Kloss,Cunewalde,Germany,744,543121,2014-04-01,2870.0
+63,Horst,Kloss,Cunewalde,Germany,749,543126,2014-04-02,560.0
+63,Horst,Kloss,Cunewalde,Germany,774,543151,2014-04-14,6941.49
+63,Horst,Kloss,Cunewalde,Germany,518,542895,2013-12-04,1684.0
+63,Horst,Kloss,Cunewalde,Germany,541,542918,2013-12-22,770.0
+63,Horst,Kloss,Cunewalde,Germany,598,542975,2014-01-21,4059.0
+63,Horst,Kloss,Cunewalde,Germany,631,543008,2014-02-10,1620.0
+63,Horst,Kloss,Cunewalde,Germany,691,543068,2014-03-10,3642.5
+63,Horst,Kloss,Cunewalde,Germany,341,542718,2013-07-03,3900.0
+63,Horst,Kloss,Cunewalde,Germany,411,542788,2013-09-05,4668.0
+63,Horst,Kloss,Cunewalde,Germany,444,542821,2013-10-03,10164.8
+63,Horst,Kloss,Cunewalde,Germany,447,542824,2013-10-06,4825.0
+63,Horst,Kloss,Cunewalde,Germany,474,542851,2013-10-29,972.5
+63,Horst,Kloss,Cunewalde,Germany,498,542875,2013-11-18,4529.8
+63,Horst,Kloss,Cunewalde,Germany,171,542548,2013-01-17,1814.8
+63,Horst,Kloss,Cunewalde,Germany,204,542581,2013-02-19,4277.4
+63,Horst,Kloss,Cunewalde,Germany,268,542645,2013-04-23,10588.5
+63,Horst,Kloss,Cunewalde,Germany,280,542657,2013-05-05,1670.0
+63,Horst,Kloss,Cunewalde,Germany,293,542670,2013-05-19,10191.7
+63,Horst,Kloss,Cunewalde,Germany,302,542679,2013-05-27,4181.5
+64,Sergio,Gutiérrez,Buenos Aires,Argentina,201,542578,2013-02-17,443.4
+64,Sergio,Gutiérrez,Buenos Aires,Argentina,469,542846,2013-10-24,706.0
+64,Sergio,Gutiérrez,Buenos Aires,Argentina,581,542958,2014-01-13,932.0
+64,Sergio,Gutiérrez,Buenos Aires,Argentina,669,543046,2014-02-27,686.7
+64,Sergio,Gutiérrez,Buenos Aires,Argentina,772,543149,2014-04-13,76.0
+65,Paula,Wilson,Albuquerque,USA,15,542392,2012-07-22,624.8
+65,Paula,Wilson,Albuquerque,USA,25,542402,2012-08-02,1456.0
+65,Paula,Wilson,Albuquerque,USA,47,542424,2012-08-30,1887.6
+65,Paula,Wilson,Albuquerque,USA,67,542444,2012-09-25,2327.0
+65,Paula,Wilson,Albuquerque,USA,69,542446,2012-09-27,2835.0
+65,Paula,Wilson,Albuquerque,USA,99,542476,2012-11-05,1731.2
+65,Paula,Wilson,Albuquerque,USA,573,542950,2014-01-07,1140.0
+65,Paula,Wilson,Albuquerque,USA,605,542982,2014-01-26,2984.0
+65,Paula,Wilson,Albuquerque,USA,642,543019,2014-02-16,11380.0
+65,Paula,Wilson,Albuquerque,USA,741,543118,2014-03-31,3772.0
+65,Paula,Wilson,Albuquerque,USA,753,543130,2014-04-06,1075.0
+65,Paula,Wilson,Albuquerque,USA,830,543207,2014-05-06,1374.6
+65,Paula,Wilson,Albuquerque,USA,154,542531,2013-01-01,3868.6
+65,Paula,Wilson,Albuquerque,USA,232,542609,2013-03-19,10495.6
+65,Paula,Wilson,Albuquerque,USA,317,542694,2013-06-10,1299.0
+65,Paula,Wilson,Albuquerque,USA,322,542699,2013-06-16,977.5
+65,Paula,Wilson,Albuquerque,USA,351,542728,2013-07-14,2388.5
+65,Paula,Wilson,Albuquerque,USA,514,542891,2013-12-02,629.5
+66,Maurizio,Moroni,Reggio Emilia,Italy,41,542418,2012-08-23,89.0
+66,Maurizio,Moroni,Reggio Emilia,Italy,181,542558,2013-01-28,192.0
+66,Maurizio,Moroni,Reggio Emilia,Italy,196,542573,2013-02-12,537.6
+66,Maurizio,Moroni,Reggio Emilia,Italy,315,542692,2013-06-09,543.0
+66,Maurizio,Moroni,Reggio Emilia,Italy,339,542716,2013-07-02,28.0
+66,Maurizio,Moroni,Reggio Emilia,Italy,763,543140,2014-04-09,645.0
+66,Maurizio,Moroni,Reggio Emilia,Italy,815,543192,2014-04-30,508.0
+66,Maurizio,Moroni,Reggio Emilia,Italy,408,542785,2013-09-03,193.0
+66,Maurizio,Moroni,Reggio Emilia,Italy,480,542857,2013-11-03,1710.0
+66,Maurizio,Moroni,Reggio Emilia,Italy,565,542942,2014-01-02,1852.0
+66,Maurizio,Moroni,Reggio Emilia,Italy,661,543038,2014-02-26,698.0
+66,Maurizio,Moroni,Reggio Emilia,Italy,695,543072,2014-03-11,560.0
+67,Janete,Limeira,Rio de Janeiro,Brazil,40,542417,2012-08-22,924.0
+67,Janete,Limeira,Rio de Janeiro,Brazil,52,542429,2012-09-06,349.5
+67,Janete,Limeira,Rio de Janeiro,Brazil,200,542577,2013-02-14,914.4
+67,Janete,Limeira,Rio de Janeiro,Brazil,234,542611,2013-03-20,1472.0
+67,Janete,Limeira,Rio de Janeiro,Brazil,316,542693,2013-06-10,965.0
+67,Janete,Limeira,Rio de Janeiro,Brazil,375,542752,2013-08-06,605.0
+67,Janete,Limeira,Rio de Janeiro,Brazil,401,542778,2013-08-28,382.5
+67,Janete,Limeira,Rio de Janeiro,Brazil,566,542943,2014-01-05,648.0
+67,Janete,Limeira,Rio de Janeiro,Brazil,604,542981,2014-01-26,2740.0
+67,Janete,Limeira,Rio de Janeiro,Brazil,630,543007,2014-02-09,2086.0
+67,Janete,Limeira,Rio de Janeiro,Brazil,812,543189,2014-04-29,1838.0
+68,Michael,Holz,Genève,Switzerland,8,542385,2012-07-12,2490.5
+68,Michael,Holz,Genève,Switzerland,172,542549,2013-01-20,2208.0
+68,Michael,Holz,Genève,Switzerland,828,543205,2014-05-06,586.0
+68,Michael,Holz,Genève,Switzerland,511,542888,2013-11-28,1644.6
+68,Michael,Holz,Genève,Switzerland,684,543061,2014-03-06,837.0
+68,Michael,Holz,Genève,Switzerland,704,543081,2014-03-16,482.9
+68,Michael,Holz,Genève,Switzerland,786,543163,2014-04-17,3592.0
+68,Michael,Holz,Genève,Switzerland,290,542667,2013-05-14,1823.8
+68,Michael,Holz,Genève,Switzerland,419,542796,2013-09-12,4666.94
+68,Michael,Holz,Genève,Switzerland,504,542881,2013-11-24,1701.46
+69,Alejandra,Camino,Madrid,Spain,34,542411,2012-08-14,86.5
+69,Alejandra,Camino,Madrid,Spain,35,542412,2012-08-15,155.4
+69,Alejandra,Camino,Madrid,Spain,59,542436,2012-09-16,498.5
+69,Alejandra,Camino,Madrid,Spain,670,543047,2014-03-02,365.89
+69,Alejandra,Camino,Madrid,Spain,766,543143,2014-04-09,361.0
+70,Jonas,Bergulfsen,Stavern,Norway,140,542517,2012-12-18,1058.4
+70,Jonas,Bergulfsen,Stavern,Norway,273,542650,2013-04-29,200.0
+70,Jonas,Bergulfsen,Stavern,Norway,392,542769,2013-08-20,500.0
+70,Jonas,Bergulfsen,Stavern,Norway,584,542961,2014-01-14,2684.4
+70,Jonas,Bergulfsen,Stavern,Norway,662,543039,2014-02-26,670.0
+70,Jonas,Bergulfsen,Stavern,Norway,768,543145,2014-04-10,622.35
+71,Jose,Pavarotti,Boise,USA,77,542454,2012-10-08,6155.9
+71,Jose,Pavarotti,Boise,USA,146,542523,2012-12-25,3302.6
+71,Jose,Pavarotti,Boise,USA,151,542528,2012-12-30,2736.0
+71,Jose,Pavarotti,Boise,USA,193,542570,2013-02-10,5793.1
+71,Jose,Pavarotti,Boise,USA,205,542582,2013-02-20,2096.0
+71,Jose,Pavarotti,Boise,USA,263,542640,2013-04-18,4735.44
+71,Jose,Pavarotti,Boise,USA,817,543194,2014-05-01,4722.3
+71,Jose,Pavarotti,Boise,USA,694,543071,2014-03-11,4769.0
+71,Jose,Pavarotti,Boise,USA,736,543113,2014-03-27,796.5
+71,Jose,Pavarotti,Boise,USA,737,543114,2014-03-30,1809.75
+71,Jose,Pavarotti,Boise,USA,755,543132,2014-04-06,1902.0
+71,Jose,Pavarotti,Boise,USA,784,543161,2014-04-17,2393.5
+71,Jose,Pavarotti,Boise,USA,501,542878,2013-11-20,2196.0
+71,Jose,Pavarotti,Boise,USA,510,542887,2013-11-27,3082.0
+71,Jose,Pavarotti,Boise,USA,568,542945,2014-01-05,40.0
+71,Jose,Pavarotti,Boise,USA,600,542977,2014-01-22,6164.9
+71,Jose,Pavarotti,Boise,USA,635,543012,2014-02-11,988.4
+71,Jose,Pavarotti,Boise,USA,647,543024,2014-02-18,2898.0
+71,Jose,Pavarotti,Boise,USA,431,542808,2013-09-23,5256.5
+71,Jose,Pavarotti,Boise,USA,453,542830,2013-10-10,2048.0
+71,Jose,Pavarotti,Boise,USA,464,542841,2013-10-21,4451.7
+71,Jose,Pavarotti,Boise,USA,466,542843,2013-10-22,2827.9
+71,Jose,Pavarotti,Boise,USA,467,542844,2013-10-22,2941.0
+71,Jose,Pavarotti,Boise,USA,475,542852,2013-10-29,1570.0
+71,Jose,Pavarotti,Boise,USA,308,542685,2013-06-02,3680.5
+71,Jose,Pavarotti,Boise,USA,356,542733,2013-07-18,1508.0
+71,Jose,Pavarotti,Boise,USA,360,542737,2013-07-22,6475.4
+71,Jose,Pavarotti,Boise,USA,365,542742,2013-07-28,6375.0
+71,Jose,Pavarotti,Boise,USA,380,542757,2013-08-11,1264.5
+71,Jose,Pavarotti,Boise,USA,410,542787,2013-09-04,4371.6
+72,Hari,Kumar,London,UK,112,542489,2012-11-21,3654.4
+72,Hari,Kumar,London,UK,130,542507,2012-12-09,1016.0
+72,Hari,Kumar,London,UK,141,542518,2012-12-19,1274.0
+72,Hari,Kumar,London,UK,225,542602,2013-03-12,1051.2
+72,Hari,Kumar,London,UK,276,542653,2013-05-01,2715.9
+72,Hari,Kumar,London,UK,300,542677,2013-05-23,1908.0
+72,Hari,Kumar,London,UK,553,542930,2013-12-26,1632.15
+72,Hari,Kumar,London,UK,557,542934,2013-12-30,2290.4
+72,Hari,Kumar,London,UK,622,542999,2014-02-04,1630.0
+73,Jytte,Petersen,Kobenhavn,Denmark,94,542471,2012-10-29,412.0
+73,Jytte,Petersen,Kobenhavn,Denmark,170,542547,2013-01-16,11283.2
+73,Jytte,Petersen,Kobenhavn,Denmark,309,542686,2013-06-03,835.2
+73,Jytte,Petersen,Kobenhavn,Denmark,395,542772,2013-08-22,870.0
+73,Jytte,Petersen,Kobenhavn,Denmark,422,542799,2013-09-15,570.0
+73,Jytte,Petersen,Kobenhavn,Denmark,555,542932,2013-12-29,3923.75
+73,Jytte,Petersen,Kobenhavn,Denmark,827,543204,2014-05-06,244.3
+74,Dominique,Perrier,Paris,France,491,542868,2013-11-12,52.35
+74,Dominique,Perrier,Paris,France,660,543037,2014-02-25,108.5
+74,Dominique,Perrier,Paris,France,717,543094,2014-03-20,2052.5
+74,Dominique,Perrier,Paris,France,796,543173,2014-04-22,210.0
+75,Art,Braunschweiger,Lander,USA,24,542401,2012-08-01,48.0
+75,Art,Braunschweiger,Lander,USA,82,542459,2012-10-15,4819.4
+75,Art,Braunschweiger,Lander,USA,102,542479,2012-11-08,141.6
+75,Art,Braunschweiger,Lander,USA,122,542499,2012-12-02,2527.2
+75,Art,Braunschweiger,Lander,USA,138,542515,2012-12-17,864.0
+75,Art,Braunschweiger,Lander,USA,185,542562,2013-01-31,485.0
+75,Art,Braunschweiger,Lander,USA,509,542886,2013-11-27,2487.5
+75,Art,Braunschweiger,Lander,USA,574,542951,2014-01-08,678.0
+75,Art,Braunschweiger,Lander,USA,727,543104,2014-03-25,439.0
+76,Pascale,Cartrain,Charleroi,Belgium,5,542382,2012-07-09,3730.0
+76,Pascale,Cartrain,Charleroi,Belgium,55,542432,2012-09-10,2708.8
+76,Pascale,Cartrain,Charleroi,Belgium,211,542588,2013-02-26,3891.0
+76,Pascale,Cartrain,Charleroi,Belgium,216,542593,2013-03-04,713.3
+76,Pascale,Cartrain,Charleroi,Belgium,228,542605,2013-03-14,1770.8
+76,Pascale,Cartrain,Charleroi,Belgium,520,542897,2013-12-05,28.0
+76,Pascale,Cartrain,Charleroi,Belgium,594,542971,2014-01-20,4581.0
+76,Pascale,Cartrain,Charleroi,Belgium,599,542976,2014-01-22,1112.0
+76,Pascale,Cartrain,Charleroi,Belgium,638,543015,2014-02-12,1209.0
+76,Pascale,Cartrain,Charleroi,Belgium,683,543060,2014-03-06,2455.0
+76,Pascale,Cartrain,Charleroi,Belgium,788,543165,2014-04-20,1754.5
+76,Pascale,Cartrain,Charleroi,Belgium,791,543168,2014-04-21,751.0
+77,Liz,Nixon,Portland,USA,63,542440,2012-09-20,336.0
+77,Liz,Nixon,Portland,USA,461,542838,2013-10-17,180.4
+77,Liz,Nixon,Portland,USA,558,542935,2013-12-30,2775.0
+77,Liz,Nixon,Portland,USA,745,543122,2014-04-01,69.6
+78,Liu,Wong,Butte,USA,377,542754,2013-08-07,1393.24
+78,Liu,Wong,Butte,USA,756,543133,2014-04-06,326.0
+78,Liu,Wong,Butte,USA,528,542905,2013-12-12,228.0
+79,Karin,Josephs,Münster,Germany,2,542379,2012-07-05,1863.4
+79,Karin,Josephs,Münster,Germany,191,542568,2013-02-06,567.5
+79,Karin,Josephs,Münster,Germany,199,542576,2013-02-14,273.6
+79,Karin,Josephs,Münster,Germany,301,542678,2013-05-26,275.1
+79,Karin,Josephs,Münster,Germany,361,542738,2013-07-23,1064.0
+79,Karin,Josephs,Münster,Germany,720,543097,2014-03-23,910.4
+80,Miguel,Angel Paolino,México D.F.,Mexico,29,542406,2012-08-08,420.0
+80,Miguel,Angel Paolino,México D.F.,Mexico,46,542423,2012-08-29,848.7
+80,Miguel,Angel Paolino,México D.F.,Mexico,57,542434,2012-09-12,954.4
+80,Miguel,Angel Paolino,México D.F.,Mexico,72,542449,2012-10-02,1191.2
+80,Miguel,Angel Paolino,México D.F.,Mexico,822,543199,2014-05-04,360.0
+80,Miguel,Angel Paolino,México D.F.,Mexico,595,542972,2014-01-20,975.0
+80,Miguel,Angel Paolino,México D.F.,Mexico,668,543045,2014-02-27,539.5
+80,Miguel,Angel Paolino,México D.F.,Mexico,271,542648,2013-04-25,4150.05
+80,Miguel,Angel Paolino,México D.F.,Mexico,329,542706,2013-06-23,838.45
+80,Miguel,Angel Paolino,México D.F.,Mexico,429,542806,2013-09-22,534.85
+81,Anabela,Domingues,Sao Paulo,Brazil,45,542422,2012-08-28,1296.0
+81,Anabela,Domingues,Sao Paulo,Brazil,249,542626,2013-04-04,200.0
+81,Anabela,Domingues,Sao Paulo,Brazil,359,542736,2013-07-22,1413.0
+81,Anabela,Domingues,Sao Paulo,Brazil,583,542960,2014-01-13,1974.0
+81,Anabela,Domingues,Sao Paulo,Brazil,587,542964,2014-01-15,1508.12
+81,Anabela,Domingues,Sao Paulo,Brazil,592,542969,2014-01-19,919.5
+82,Helvetius,Nagy,Kirkland,USA,327,542704,2013-06-19,764.3
+82,Helvetius,Nagy,Kirkland,USA,330,542707,2013-06-23,569.0
+82,Helvetius,Nagy,Kirkland,USA,575,542952,2014-01-08,237.9
+83,Palle,Ibsen,?rhus,Denmark,120,542497,2012-11-28,834.2
+83,Palle,Ibsen,?rhus,Denmark,152,542529,2012-12-31,1765.6
+83,Palle,Ibsen,?rhus,Denmark,218,542595,2013-03-05,2719.0
+83,Palle,Ibsen,?rhus,Denmark,344,542721,2013-07-07,812.5
+83,Palle,Ibsen,?rhus,Denmark,355,542732,2013-07-17,65.0
+83,Palle,Ibsen,?rhus,Denmark,441,542818,2013-10-01,3490.0
+83,Palle,Ibsen,?rhus,Denmark,497,542874,2013-11-17,920.0
+83,Palle,Ibsen,?rhus,Denmark,522,542899,2013-12-08,1704.0
+83,Palle,Ibsen,?rhus,Denmark,674,543051,2014-03-03,1936.0
+83,Palle,Ibsen,?rhus,Denmark,699,543076,2014-03-12,1407.5
+83,Palle,Ibsen,?rhus,Denmark,747,543124,2014-04-02,990.0
+84,Mary,Saveley,Lyon,France,4,542381,2012-07-08,670.8
+84,Mary,Saveley,Lyon,France,87,542464,2012-10-21,144.8
+84,Mary,Saveley,Lyon,France,203,542580,2013-02-19,531.4
+84,Mary,Saveley,Lyon,France,212,542589,2013-02-27,1688.0
+84,Mary,Saveley,Lyon,France,231,542608,2013-03-18,496.0
+84,Mary,Saveley,Lyon,France,299,542676,2013-05-23,2812.0
+84,Mary,Saveley,Lyon,France,559,542936,2013-12-31,572.1
+84,Mary,Saveley,Lyon,France,567,542944,2014-01-05,2070.0
+84,Mary,Saveley,Lyon,France,596,542973,2014-01-21,212.0
+84,Mary,Saveley,Lyon,France,603,542980,2014-01-23,740.0
+85,Paul,Henriot,Reims,France,1,542378,2012-07-04,440.0
+85,Paul,Henriot,Reims,France,27,542404,2012-08-06,538.6
+85,Paul,Henriot,Reims,France,48,542425,2012-09-02,121.6
+85,Paul,Henriot,Reims,France,490,542867,2013-11-11,139.8
+85,Paul,Henriot,Reims,France,492,542869,2013-11-12,240.0
+86,Rita,Müller,Stuttgart,Germany,54,542431,2012-09-09,755.0
+86,Rita,Müller,Stuttgart,Germany,65,542442,2012-09-23,1614.8
+86,Rita,Müller,Stuttgart,Germany,101,542478,2012-11-07,396.0
+86,Rita,Müller,Stuttgart,Germany,109,542486,2012-11-18,1106.4
+86,Rita,Müller,Stuttgart,Germany,266,542643,2013-04-22,2427.5
+86,Rita,Müller,Stuttgart,Germany,385,542762,2013-08-14,620.0
+86,Rita,Müller,Stuttgart,Germany,393,542770,2013-08-21,945.0
+86,Rita,Müller,Stuttgart,Germany,404,542781,2013-09-01,530.4
+86,Rita,Müller,Stuttgart,Germany,421,542798,2013-09-15,694.75
+86,Rita,Müller,Stuttgart,Germany,799,543176,2014-04-23,1564.0
+87,Pirkko,Koskitalo,Oulu,Finland,19,542396,2012-07-26,364.8
+87,Pirkko,Koskitalo,Oulu,Finland,23,542400,2012-08-01,1376.0
+87,Pirkko,Koskitalo,Oulu,Finland,73,542450,2012-10-03,516.0
+87,Pirkko,Koskitalo,Oulu,Finland,778,543155,2014-04-15,300.0
+87,Pirkko,Koskitalo,Oulu,Finland,503,542880,2013-11-21,1871.25
+87,Pirkko,Koskitalo,Oulu,Finland,534,542911,2013-12-17,1132.35
+87,Pirkko,Koskitalo,Oulu,Finland,279,542656,2013-05-05,1344.0
+87,Pirkko,Koskitalo,Oulu,Finland,306,542683,2013-05-30,1546.3
+87,Pirkko,Koskitalo,Oulu,Finland,336,542713,2013-06-30,2413.9
+87,Pirkko,Koskitalo,Oulu,Finland,389,542766,2013-08-19,629.5
+87,Pirkko,Koskitalo,Oulu,Finland,86,542463,2012-10-18,954.0
+87,Pirkko,Koskitalo,Oulu,Finland,165,542542,2013-01-13,372.0
+87,Pirkko,Koskitalo,Oulu,Finland,169,542546,2013-01-16,720.0
+87,Pirkko,Koskitalo,Oulu,Finland,190,542567,2013-02-05,393.0
+87,Pirkko,Koskitalo,Oulu,Finland,208,542585,2013-02-24,2684.0
+88,Paula,Parente,Resende,Brazil,9,542386,2012-07-15,517.8
+88,Paula,Parente,Resende,Brazil,173,542550,2013-01-21,1897.6
+88,Paula,Parente,Resende,Brazil,338,542715,2013-07-01,142.5
+88,Paula,Parente,Resende,Brazil,397,542774,2013-08-25,1422.0
+88,Paula,Parente,Resende,Brazil,556,542933,2013-12-30,1255.8
+88,Paula,Parente,Resende,Brazil,562,542939,2014-01-01,140.0
+88,Paula,Parente,Resende,Brazil,653,543030,2014-02-20,45.0
+88,Paula,Parente,Resende,Brazil,658,543035,2014-02-24,360.0
+88,Paula,Parente,Resende,Brazil,688,543065,2014-03-09,700.0
+89,Karl,Jablonski,Seattle,USA,22,542399,2012-07-31,676.0
+89,Karl,Jablonski,Seattle,USA,97,542474,2012-11-01,2856.0
+89,Karl,Jablonski,Seattle,USA,222,542599,2013-03-10,1125.5
+89,Karl,Jablonski,Seattle,USA,236,542613,2013-03-24,704.0
+89,Karl,Jablonski,Seattle,USA,257,542634,2013-04-11,1388.5
+89,Karl,Jablonski,Seattle,USA,349,542726,2013-07-11,1476.1
+89,Karl,Jablonski,Seattle,USA,785,543162,2014-04-17,8902.5
+89,Karl,Jablonski,Seattle,USA,819,543196,2014-05-01,928.75
+89,Karl,Jablonski,Seattle,USA,446,542823,2013-10-06,2334.0
+89,Karl,Jablonski,Seattle,USA,449,542826,2013-10-08,996.0
+89,Karl,Jablonski,Seattle,USA,476,542853,2013-10-30,468.45
+89,Karl,Jablonski,Seattle,USA,493,542870,2013-11-13,1770.0
+89,Karl,Jablonski,Seattle,USA,614,542991,2014-01-30,3523.4
+89,Karl,Jablonski,Seattle,USA,657,543034,2014-02-24,1924.25
+90,Matti,Karttunen,Helsinki,Finland,758,543135,2014-04-07,586.0
+90,Matti,Karttunen,Helsinki,Finland,448,542825,2013-10-07,642.0
+90,Matti,Karttunen,Helsinki,Finland,626,543003,2014-02-06,336.8
+90,Matti,Karttunen,Helsinki,Finland,632,543009,2014-02-10,611.3
+90,Matti,Karttunen,Helsinki,Finland,663,543040,2014-02-26,452.9
+90,Matti,Karttunen,Helsinki,Finland,368,542745,2013-07-30,120.0
+90,Matti,Karttunen,Helsinki,Finland,426,542803,2013-09-18,412.35
+91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,127,542504,2012-12-05,459.0
+91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,364,542741,2013-07-25,808.0
+91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,545,542922,2013-12-23,399.85
+91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,623,543000,2014-02-04,160.0
+91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,659,543036,2014-02-25,427.5
+91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,751,543128,2014-04-03,686.0
+91,Zbyszek,Piestrzeniewicz,Warszawa,Poland,797,543174,2014-04-23,591.6
