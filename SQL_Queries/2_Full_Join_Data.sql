@@ -1,5 +1,5 @@
 /*
-Extract all table data into one table to analyze it using Python.
+Extract Full Join Data from tables (Customer - Order - Product - Supplier) into one table to analyze it using Python.
 */
 
 USE InternationalCompanySalesData;
