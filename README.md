@@ -126,3 +126,200 @@ for column in list(orders.columns):
     if column in columns_edit:
         orders[column] = orders[column].astype(int)
 ```
+### **4.2. Data Exploration Step (Exploratory Data Analysis "EDA"):** 
+ - Data exploration is a main step in data analysis involving the use of data visualization tools and statistical techniques to uncover data set characteristics and initial patterns.
+
+### **1- Univariate Analysis:**
+
+**Analysis Quantitative Column In The Data (totalamount):**
+
+**(1) Descriptive Statistics Summary:**
+
+- We use describe method to find Descriptive statistics about Dataframe:
+```python
+orders["totalamount"].describe()
+```
+```
+| Statistic | Value       |
+|-----------|-------------|
+| count     | 830.000000  |
+| mean      | 1631.877819 |
+| std       | 1990.613963 |
+| min       | 12.500000   |
+| 25%       | 480.000000  |
+| 50%       | 1015.900000 |
+| 75%       | 2028.650000 |
+| max       | 17250.000000|
+```
+**(2) Data Shape Using (Histogram):**
+
+**Using Plot( ) Function of Pandas Library:**
+
+![alt text](Figs/F2.png)
+
+**Histogram Shape Analysis:**
+
+- First, the shape of the curve is (Right-Skewed) or (Positive-Skewed).
+
+- In this case, the mean is more than the median (mean > median).
+
+- We note that most of our data in the histogram is concentrated in the left side.
+
+- We note that the median (black line) is closer to most data on the left side.
+
+- Unlike mean which is closer to higher values data which is right skewed of the curve.
+
+- So, the median in this case is more accurate and can be used in measure of the center.
+
+**(3) Five Number Summary: (Min - Q1 - Median(Q2) - Q3 - Max) Using (Box Plot):**
+
+**Five Number Summary:**
+- We used five number summary to find the outliers in our data, a five-number summary simply consists of the smallest data value (Min), the first quartile (Q1), the median (Q2), the third quartile (Q3), and the largest data value (Max). 
+    -	Min
+    -	Q1
+    -	Median
+    -	Q3
+    -	Max
+```python
+Min = orders["totalamount"].min()
+Q1 = orders["totalamount"].quantile(0.25)
+Q2 = orders["totalamount"].median()
+Q3 = orders["totalamount"].quantile(0.75)
+Max = orders["totalamount"].max()
+```
+
+**IQR:**
+
+- Interquartile range tells you the spread of the middle half of your distribution.
+
+    - Q1 = 25% of the dataset.
+    - Q2 = Median = 50% of the dataset.
+    - Q3 = 75% of the dataset.
+    - IQR = Q3 – Q1
+    - Lower Boundary = Q1 – (1.5 * IQR)
+    - Upper Boundary = Q3 + (1.5 * IQR)
+- Outliers are the values that is less than or equal lower boundary and more than or equal upper boundary.
+```python
+IQR = Q3 - Q1
+lower_boundary = Q1 - (1.5 * IQR)
+upper_boundary = Q3 + (1.5 * IQR)
+```
+**Box Plot:**
+
+**Using Plotly Library:**
+
+![alt text](Figs/F3.PNG)
+
+**Using Seaborn Library:**
+
+![alt text](Figs/F4.png)
+
+
+**Combination Of Histogram Chart and Box Plot Chart Showing Invoices Amount Distribution**
+
+```python
+fig, ax = plt.subplots(2,1)
+fig.tight_layout(h_pad=2)
+
+def salaryFormat(x, position):
+    return(f"${int(x / 1000)}K")
+
+ax[0].hist(x=orders["totalamount"], bins=30, edgecolor="black")
+ax[0].set_title("Distribution of Total Amount of Invoices")
+ax[0].xaxis.set_major_formatter(plt.FuncFormatter(salaryFormat))
+ax[0].axvline(x=(orders["totalamount"]).median(), color="red", linestyle="--", label="Median")
+ax[0].axvline(x=(orders["totalamount"]).mean(), color="black", linestyle="--", label="Mean")
+ax[0].axvline(x=(orders["totalamount"]).quantile(0.25), color="yellow", linestyle="--", label="Q1")
+ax[0].axvline(x=(orders["totalamount"]).quantile(0.75), color="yellow", linestyle="--", label="Q3")
+ax[0].legend(loc="upper right")
+
+ax[1].boxplot(x=orders["totalamount"], vert=False)
+ax[1].set_yticks([])
+ax[1].xaxis.set_major_formatter(plt.FuncFormatter(salaryFormat))
+ax[1].set_xlabel("Total Amount In (USD$)")
+ax[1].axvline(x=(orders["totalamount"]).median(), color="red", linestyle="--")
+ax[1].axvline(x=(orders["totalamount"]).mean(), color="black", linestyle="--")
+ax[1].axvline(x=(orders["totalamount"]).quantile(0.25), color="yellow", linestyle="--")
+ax[1].axvline(x=(orders["totalamount"]).quantile(0.75), color="yellow", linestyle="--")
+```
+![alt text](Figs/F5.png)
+
+**Box Plot Analysis:**
+
+- From the box plot and five-number summary analysis, we note that the upper boundary is almost equal = 4351.625.
+
+- The number of rows (invoices) that are bigger or equal to the upper boundary is 56 rows (invoices).
+
+- In fact, I see that 56 rows to be considered outliers is not correct compared to the total number of rows of the dataframe (830).
+
+- The second reason is due to the values from 4K to 15K are close together, which means that the difference between them is small.
+
+- In this case, I will consider that values more than 15K are considered outliers, as their values are differentiated more.
+
+**Dealing With Ouliers:**
+- Total Number of Rows >= Upper Boundary = 3 Rows
+- Total Number of Rows <= Lower Boundary = 0 Rows
+```python
+orders = orders[orders["totalamount"] < 15000]
+```
+**Analysis Qualitative (Categorical ) Data Exploratory:**
+
+**Bar Chart Analysis:**
+
+**City Column Analysis Using Bar Chart:**
+
+***1-Using Plot( ) Function of Pandas Library:***
+
+![alt text](Figs/F6.png)
+
+***2-Using Matplotlib Library:***
+
+![alt text](Figs/F7.png)
+
+**City Bar Chart Analysis:**
+1. **Cities with High Counts:**
+   - The two cities dominating this chart are London and Rio de Janeiro because they have an extremely high count, far ahead of other cities.
+   - The next tier of cities with considerable high counts includes São Paulo, Boise, and Cunevaldez.
+
+2. **Sharp Descent After the Top Cities:**
+   - After top five, the count comes down sharply. Other cities also tend to show a gradual downward trend.
+
+3. **Potential Categories for Investigation or Impact:**
+   - The data would almost suggest that businesses or initiatives with such a dataset will probably find the top 10 cities beneficial for impact. On the other hand, the tail-end of the cities may prove interesting for countries with niche opportunities.
+
+**Country Column Analysis Using Bar Chart:**
+
+***1.Using Seaborn Library:***
+
+![alt text](Figs/F9.png)
+
+***2.Using Plotly Library:***
+
+![alt text](Figs/F8.png)
+
+**Countries Bar Chart Analysis:**
+- With top two absolute counts which are more than any other country, **Germany** and **USA** turned out to be the topmost countries in the bar chart.
+- The top three were followed by **Brazil**, **France**, and the **UK**.
+- After the top five countries in the chart, the counts see a steady declining trend that has gone much closer to even representation in mid-tier countries, such as **Venezuela**, **Austria**, and **Sweden**. 
+- Countries like **Argentina**, **Portugal**, **Poland**, and **Norway**, together add very little to the total counts, but add variety to the dataset.
+- This data has countries across continents, besides covering Europe and America; it appears to be a worldwide dataset.
+- Germany and the USA are critical areas, again by counts, but also by the indications of the chart showing possibilities to look beyond the high counts into mid-tier countries.
+
+**Country Column Analysis Using Pie Chart Using Matplotlib Library:**
+```python
+plt.figure(figsize=(15, 8))
+country_chart.plot(
+    kind="pie",
+    startangle=90,
+    autopct="%1.1f%%",
+    legend=True,            
+)
+plt.title("Country-wise Order Distribution", fontsize=16)
+plt.tight_layout()
+plt.ylabel(" ")
+
+```
+![alt text](Figs/F10.png)
+
+**Pie Chart Analysis:**
+- Through the preliminary analysis, we see that London is the city that has the largest share of purchasing our products with 46 invoices, but Germany and United States are the the most purchasing countries for dataset products with 121 invoices and 14.7% of our total sales.
