@@ -26,7 +26,9 @@ GO
 
 CREATE DATABASE InternationalCompanySalesData;
 ```
-### **3.2. Extract Full Join Data Set:**
+### **3.2. Import Data to Database Using SQL Server Import and Export Wizard:**
+
+### **3.3. Extract Full Join Data Set:**
 - Extract Full Join Data from tables (Customer - Order - Product - Supplier) into one table to analyze it using Python.
 ```sql
 USE InternationalCompanySalesData;
@@ -268,11 +270,11 @@ orders = orders[orders["totalamount"] < 15000]
 
 **City Column Analysis Using Bar Chart:**
 
-***1-Using Plot( ) Function of Pandas Library:***
+**1-Using Plot( ) Function of Pandas Library:**
 
 ![alt text](Figs/F6.png)
 
-***2-Using Matplotlib Library:***
+**2-Using Matplotlib Library:**
 
 ![alt text](Figs/F7.png)
 
@@ -289,11 +291,11 @@ orders = orders[orders["totalamount"] < 15000]
 
 **Country Column Analysis Using Bar Chart:**
 
-***1.Using Seaborn Library:***
+**1.Using Seaborn Library:**
 
 ![alt text](Figs/F9.png)
 
-***2.Using Plotly Library:***
+**2.Using Plotly Library:**
 
 ![alt text](Figs/F8.png)
 
@@ -568,3 +570,117 @@ ax.invert_yaxis()
 * **Invoices Count:** 20
 * **Ranking:** Fifth place
 
+### **3- Multivariate Analysis:**
+
+**Analysis Of Three Variables (Order Date - Country - Total Amount):**
+
+**Scatter Plot:**
+
+**Using Matplotlib Library:**
+```python
+plt.scatter(data=country_per_month_name,
+            x="country_count",
+            y="total_amount",
+            s=20,
+            c="red",
+            alpha=1,
+            marker="^")
+
+texts_list = []
+
+for index, row in country_per_month_name.iterrows():
+    texts_list.append(plt.text(row["country_count"], row["total_amount"], index))
+
+ax = plt.gca()
+adt.adjust_text(texts=texts_list, arrowprops=dict(arrowstyle="->", color="r", lw=1))
+ax.yaxis.set_major_formatter(plt.FuncFormatter(lambda y, position: f"${int(y / 1000)}K"))
+plt.title("Distribution Of Country Count & Total Amount")
+plt.ylabel("Total Amount")
+plt.xlabel("Country Count")
+plt.tight_layout()
+```
+
+![alt text](Figs/F24.png)
+
+**Grouped Bar Chart With Color Intensity Representing a Categorical Variable (Country Frequency):**
+
+**Using Plotly Library:**
+
+```python
+px_bar = px.bar(data_frame=country_per_month,
+       x=country_per_month.index,
+       y=country_per_month["total_amount"],
+       title="Distribution Of Country Frequency & Total Amount",
+       labels=({"total_amount":"Total Amount", "orderdate":"Month"}),
+       text_auto=True,
+       color=country_per_month["country_count"]
+       )
+
+px_bar.update_layout(title_x=0.5)
+px_bar.update_traces(textposition="outside")
+```
+
+![alt text](Figs/F25.PNG)
+
+**Grouped Bar Chart Analysis:**
+1. **Steady Growth Over Time**:  
+   The total amount shows a consistent upward trend, with notable increases in early 2013 and a significant peak in early 2014. This suggests sustained growth, possibly driven by business expansion or market penetration.
+
+2. **Correlation Between Total Amount and Country Count**:  
+   Bars with lighter colors (higher `country_count`) correspond to higher total amounts. This indicates that broader international participation or engagement correlates with higher revenue or performance metrics.
+
+3. **Notable Spikes in Specific Periods**:  
+   Key months such as **January 2013**, **October 2013**, and **January-April 2014** exhibit substantial increases in total amount. These periods could represent seasonal trends, successful campaigns, or key market activities.
+
+4. **Peak Performance in April 2014**:  
+   April 2014 recorded the highest total amount (~118.307k), accompanied by a high `country_count`. This suggests a culmination of efforts like marketing drives, new product launches, or expanded geographical outreach.
+
+5. **Enhanced Data Presentation**:  
+   The inclusion of annotations with exact amounts on the bars provides clear and precise data interpretation, making it easier to compare monthly performance. The color gradient effectively ties the `country_count` variable to the total amount, adding depth to the analysis.
+
+### **Multivariate Analysis (Advanced Scatter Plot):**
+
+**Using Plotly Library:**
+
+```python
+px.scatter(data_frame=month_country_group,
+           x="monthyear",
+           y="total_amount_sum",
+           color="country",
+           size="total_amount_sum",
+           labels={
+               "monthyear":"Month - Year",
+               "total_amount_sum":"Total Amount In (USD$)"
+           },
+           title="Total Amount Sum Variation Across Countries from January 2012 to May 2014")
+```
+
+
+![alt text](Figs/F26.PNG)
+
+**Advanced Scatter Plot Analysis:**
+1. The chart illustrates the total amount each country had throughout the period from January 2012 to May 2014.
+2. Each country has a different color on the plot that distinguishes one country from another.
+3. The relation of the size of the data points to the overall sum suggests that the largest points are the highest values.
+4. The scatter plot data points with various grades of the total amount sum show the financial performance discrepancies among the depicted countries.
+5. The evidence of the total amount sum fluctuation in the period from January 2012 to May 2014 is clearly a sign of perhaps economic patterns or changes in the financial functioning.
+6. The scattering of the data across the graph denotes potential outliers or countries with particularly high or low total values relative to the others.
+7. The span of the total amount sum, from 0 to 30k, forms a clear picture of the size of the transactions or balances for the countries being studied.
+
+**Conclusion:**
+
+- The overall pattern in the dataset indicates that total amounts are rising over time, though punctuated by different high growth periods and small dips. 
+
+- There tend to be certain months recording activity above or below the average, typically as a result of some seasonal influences. 
+
+- A select few countries and cities have amounts so disproportionately high that they may indicate the possibility of valuable customers or markets.
+
+- Germany and the USA are the top countries according to the number of transactions and the total amount involved. 
+
+- Of the above, cumulating the biggest number of transactions are London and Rio de Janeiro, while Graz and Cunewalde top the table in terms of the biggest amount. 
+
+- The range covered by the dataset is significant as it touches numerous countries and cities indicates several customer bases.
+
+- Very few customers like Roland Mendel, Horst Kloss, and Jose Pavarotti have contributed significantly to overall earnings. 
+
+- A small number of customers with high invoices-per-customer metrics show solid engagement. For instance, Roland Mendel, Jose Pavarotti, and Horst Kloss were among them.
