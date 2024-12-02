@@ -323,3 +323,248 @@ plt.ylabel(" ")
 
 **Pie Chart Analysis:**
 - Through the preliminary analysis, we see that London is the city that has the largest share of purchasing our products with 46 invoices, but Germany and United States are the the most purchasing countries for dataset products with 121 invoices and 14.7% of our total sales.
+
+### **2- Bivariate Analysis:**
+
+**(1) Countries Vs. Total Amount:**
+
+**Bar Chart:**
+
+![alt text](Figs/F11.png)
+
+**Pie Chart**
+
+![alt text](Figs/F12.PNG)
+
+**Analysis:**
+* **USA** has the highest "Total Amount" by a considerable margin.
+* **Germany** and **Austria** follow in the second and third positions, respectively.
+* Countries like **Brazil**, **France**, **Venezuela**, and **UK** fall into the mid-range category, with their "Total Amounts" being lower than the top three but still higher than many others.
+* The majority of countries in the chart, including **Sweden**, **Ireland**, **Canada**, and **Belgium**, have relatively lower "Total Amounts."
+* There's a significant difference in the "Total Amounts" between the top-ranking countries and the rest.
+* The distribution appears to be somewhat clustered, with a few countries in the higher range, a larger group in the mid-range, and a smaller group in the lower range.
+
+**(2) Cities Vs. Total Amount Bar Chart:**
+
+**Bar Chart:**
+
+![alt text](Figs/F13.png)
+
+**Pie Chart**
+
+![alt text](Figs/F14.PNG)
+
+**Analysis:**
+* **Graz** has the highest "Total Amount" by a considerable margin.
+* **Cunewalde** and **Boise** follow in the second and third positions, respectively.
+* Cities like Cork**, **London**, and **Albuquerque** fall into the mid-range category, with their "Total Amounts" being lower than the top three but still higher than many others.
+* The majority of cities in the chart, including **Sao Paulo**, **Rio de Janeiro**, **Br?cke**, and **Montréal**, have relatively lower "Total Amounts."
+* There's a significant difference in the "Total Amounts" between the top-ranking cities and the rest.
+* The distribution appears to be somewhat clustered, with a few cities in the higher range, a larger group in the mid-range, and a smaller group in the lower range.
+
+**Time Series Analysis (Order Date Analysis):**
+
+**Relationship Between Order Date & Total Amount:**
+
+**Using Matplotlib Library:**
+
+```python
+plt.figure(figsize=(15,5))
+plt.plot(orders["orderdate"], orders["totalamount"])
+plt.tight_layout()
+ax = plt.gca()
+ax.yaxis.set_major_formatter(plt.FuncFormatter(lambda y, position: (f"${int(y / 1000)}K")))
+```
+
+![](Figs/F15.png)
+
+**Time Series Plot Analysis:**
+
+- The "Total Amount" exhibits significant fluctuations over time, suggesting a dynamic and unpredictable trend.
+
+- The plot doesn't reveal a consistent upward or downward trend, indicating that the "Total Amount" might be influenced by various factors that are not easily predictable.
+
+- There might be some seasonal patterns, but they are masked by the high volatility. Further analysis with statistical techniques could confirm the presence of seasonality.
+
+- The plot contains several data points that deviate significantly from the general trend, suggesting the presence of outliers. These outliers could be due to specific events, anomalies, or measurement errors.
+
+
+**Unique Country Count Per Month Analysis:**
+
+**Using Matplotlib Library:**
+```python
+plt.figure(figsize=(15,6))
+plt.plot(dateCountry1M["country"], dateCountry1M["ordermonth"])
+plt.tight_layout()
+plt.title("Frequency Of Unique Country Per Month")
+plt.xlabel("Unique Country Frequency")
+plt.ylabel("Month-Year")
+```
+
+![alt text](Figs/F16.png)
+
+**OR:**
+
+```python
+plt.figure(figsize=(15,6))
+plt.plot(dateCountry1M["ordermonth"], dateCountry1M["country"])
+plt.tight_layout()
+plt.title("Frequency Of Unique Country Per Month")
+plt.xlabel("Unique Country Frequency")
+plt.ylabel("Month-Year")
+plt.xticks(rotation=45, ha="right")
+```
+![alt text](Figs/F17.png)
+
+
+**Analysis:**
+* There seems to be a slight dip in unique country frequency during these months, indicating a potential seasonal variation. This could be due to factors like weather conditions or holiday seasons affecting travel and data collection.
+* A peak in unique country frequency is observed during these months, suggesting increased activity or data collection during this period.
+* **2012:** The year starts with a relatively low frequency of unique countries and gradually increases towards the end of the year.
+* **2013:** This year shows a more pronounced upward trend, with peaks in the summer months and dips in the winter months.
+* **2014:** The trend continues upward, with a significant peak in May 2014. This could be due to a specific event or campaign that attracted a diverse range of countries.
+
+**Top Customers (Paying & Invoices Frequency):**
+
+**Bar Chart:**
+
+**Using Matplotlib Library:**
+
+![alt text](Figs/F18.png)
+
+**Using Plotly Library:**
+
+```python
+px_bar = px.bar(data_frame=customer_group,
+       x="fullname",
+       y="totalamount",
+       text_auto=True,
+       title="Top 10 High Paying Customers",
+       labels={
+           "fullname" : "Customer Name",
+           "totalamount" : "Total Amount"
+       },
+       )
+
+px_bar.update_traces(
+    marker_color="rgb(255,73,0)",
+    marker_line_color="rgb(255,73,0)",
+    marker_line_width=1.5,
+    textposition="inside",
+    opacity=0.7
+)
+
+```
+![alt text](Figs/F22.PNG)
+
+**Horizontal Bar Chart Using Matplolib Library:**
+```python
+plt.figure(figsize=(12,4))
+plt.barh(y=customer_group["fullname"], width=customer_group["totalamount"])
+plt.title("Top 10 High Paying Customers")
+plt.xlabel("Customer Name")
+plt.ylabel("Total Amount In (USD$)")
+
+ax = plt.gca()
+ax.invert_yaxis()
+ax.xaxis.set_major_formatter(plt.FuncFormatter(lambda x, position: (f"${int(x / 1000)}K")))
+```
+
+![alt text](Figs/F19.png)
+
+**Analysis:**
+- From the analysis of the chart, the top five customers according to total amount:
+
+**1. Roland Mendel:** 
+* **Total Amount:** $110,000 (USD).
+* **Ranking:** First place
+
+**2. Horst Kloss:**
+
+* **Total Amount:** $100,000 (USD)
+* **Ranking:** Second place
+
+**3. Jose Pavarotti:**
+
+* **Total Amount:** $100,000 (USD)
+* **Ranking:** Third place
+
+**4. Patricia McKenna:**
+
+* **Total Amount:** $95,000 (USD)
+* **Ranking:** Fourth place
+
+**5. Paula Wilson:**
+
+* **Total Amount:** $60,000 (USD)
+* **Ranking:** Fifth place
+
+
+**Relation Between Customer Full Name & Count of Invoices:**
+
+**Using Matplotlib Library:**
+
+![alt text](Figs/F20.png)
+
+
+
+**Using Plotly Library:**
+```python
+px_bar = px.bar(data_frame=customer_count,
+       x=customer_count.index,
+       y=customer_count.values,
+       text_auto=True,
+       title="Customers Invoices Count",
+       )
+
+px_bar.update_traces(
+    marker_color="rgb(255,73,0)",
+    marker_line_color="rgb(255,73,0)",
+    marker_line_width=1.5,
+    textposition="inside",
+    opacity=0.7
+)
+```
+
+![alt text](Figs/F23.PNG)
+
+**Horizontal Bar Chart Using Matplolib Library:**
+```python
+plt.figure(figsize=(12,4))
+plt.barh(y=customer_count.index, width=customer_count.values)
+plt.title("Customers Invoices Count")
+plt.xlabel("Customer Name")
+plt.ylabel("Frequency")
+
+ax = plt.gca()
+ax.invert_yaxis()
+```
+![alt text](Figs/F21.png)
+
+**Analysis:**
+
+**1. Roland Mendel:**
+
+* **Invoices Count:** 30
+* **Ranking:** First place
+
+**2. Jose Pavarotti:**
+
+* **Invoices Count:** 30
+* **Ranking:** Second place
+
+**3. Horst Kloss:**
+
+* **Invoices Count:** 30
+* **Ranking:** Third place
+
+**4. Maria Larsson:**
+
+* **Invoices Count:** 28
+* **Ranking:** Fourth place
+
+**5. Patricia McKenna:**
+
+* **Invoices Count:** 20
+* **Ranking:** Fifth place
+
