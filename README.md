@@ -9,7 +9,7 @@ To thoroughly explore the data analyst job market, I utilized the capabilities o
 2. **Microsoft SQL Server:** database management system.
 3. **Python:** as it a powerhouse in data analysis, thanks to its simplicity, flexibility, and the vast array of libraries it offers.
 4. **Visual Studio Code:** for database management and executing SQL queries, and for Python coding for analysis.
-5. **Jupyter Notebook:** It is an interactive web-based environment that allows users to create and share documents containing live code, visualizations, and narrative text, using Python language.
+5. **Jupyter Notebook:** as it an interactive web-based environment that allows users to create and share documents containing live code, visualizations, and narrative text, using Python language.
 6. **Git & GitHub:** for sharing my SQL and Python analysis and interpretation.
 
 # 3. SQL Queries Analysis (Microsoft SQL Server & VS Code):
