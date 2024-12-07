@@ -297,7 +297,7 @@ orders = orders[orders["totalamount"] < 15000]
 
 **2.Using Plotly Library:**
 
-![alt text](Figs/F8.png)
+![alt text](Figs/F8.PNG)
 
 **Countries Bar Chart Analysis:**
 - With top two absolute counts which are more than any other country, **Germany** and **USA** turned out to be the topmost countries in the bar chart.
