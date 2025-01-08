@@ -4,7 +4,6 @@ In this project, we would use SQL using the Microsft SQL Server DBMS to export s
 You can see all SQL queries for the project here: [SQL_Queries folder](/SQL_Queries/), and Python Jupyter Notebooks here:[Python_Analysis](Python_Analysis).
 
 # 2. Tools I Used:
-To thoroughly explore the data analyst job market, I utilized the capabilities of a range of essential tools:
 1. **SQL:** allowing me to query the database and explore critical insights.
 2. **Microsoft SQL Server:** database management system.
 3. **Python:** as it a powerhouse in data analysis, thanks to its simplicity, flexibility, and the vast array of libraries it offers.
